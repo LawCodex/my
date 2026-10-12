@@ -1,0 +1,403 @@
+---
+title: "AKTA KESALAHAN-KESALAHAN SEKSUAL TERHADAP KANAK-KANAK 2017"
+identifier: "Act 792"
+type: act
+jurisdiction: my
+language: ms
+last_amended: 2023-07-11
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841831_BM/AKTA%20792%20%28MUKTAMAD%29%20SEBAGAIMANA%2011%20JULAI%202023.pdf"
+retrieved: 2026-10-12
+---
+
+# AKTA KESALAHAN-KESALAHAN SEKSUAL TERHADAP KANAK-KANAK 2017
+
+Suatu Akta untuk mengadakan peruntukan mengenai kesalahan-kesalahan seksual terhadap kanak-kanak yang tertentu dan hukumannya sebagai tambahan kepada kesalahan-kesalahan seksual terhadap kanak-kanak yang lain dan hukumannya dalam undang-undang bertulis yang lain, dan berhubung dengannya untuk mengadakan peruntukan mengenai pentadbiran keadilan bagi kanak-kanak dan perkara yang berkaitan.
+
+[10 Julai 2017, P.U. (B) 340/2017]
+
+DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+
+## BAHAGIAN I — PERMULAAN
+
+### 1. Tajuk ringkas dan permulaan kuat kuasa
+
+(1) Akta ini bolehlah dinamakan Akta Kesalahan-Kesalahan Seksual terhadap Kanak-Kanak 2017.
+
+(2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+### 2. Pemakaian
+
+(1) Akta ini hendaklah terpakai bagi kanak-kanak yang berumur di bawah lapan belas tahun dan sekiranya Akta ini berhubung dengan mana-mana undang-undang bertulis yang lain, bagi kanak-kanak yang berumur sebagaimana yang dinyatakan dalam undang-undang bertulis itu.
+
+(2) Apa-apa sebutan tentang kanak-kanak berkenaan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak hendaklah termasuk orang yang seseorang tertuduh percaya berumur atau di bawah umur sebagaimana yang dinyatakan dalam peruntukan mengenai kesalahan itu masing-masing.
+
+### 3. Pemakaian luar wilayah
+
+Jika mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak dilakukan oleh warganegara Malaysia terhadap mana-mana kanak-kanak di mana-mana tempat di luar Malaysia, dia boleh diuruskan berkenaan dengan kesalahan itu seolah-olah kesalahan itu telah dilakukan di mana-mana tempat di dalam Malaysia.
+
+## BAHAGIAN II — KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN BAHAN PENGANIAYAAN SEKSUAL KANAK-KANAK
+
+### 4. Bahan penganiayaan seksual kanak-kanak
+
+Dalam Akta ini (a) “bahan penganiayaan seksual kanak-kanak” ertinya apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah—
+
+(i) mengenai seseorang kanak-kanak yang melakukan suatu perlakuan seksual secara terang-terangan;
+
+(ii) mengenai seseorang yang kelihatan seperti kanak-kanak yang melakukan suatu perlakuan seksual secara terang-terangan;
+
+(iii) mengenai imej realistik atau grafik seseorang kanak-kanak yang melakukan suatu perlakuan seksual secara terang-terangan; atau
+
+(iv) mengenai imej realistik atau grafik seseorang yang kelihatan seperti kanak-kanak yang melakukan suatu perlakuan seksual secara terang-terangan; dan
+
+(b) “perlakuan seksual secara terang-terangan” termasuklah yang benar atau simulasi yang berikut:
+
+(i) persetubuhan, atau perbuatan yang memberahikan termasuk kontak fizikal yang melibatkan alat kelamin dengan alat kelamin, mulut dengan alat kelamin, dubur dengan alat kelamin, atau mulut dengan dubur, antara orang yang mempunyai jantina yang sama atau berlainan;
+
+(ii) perbuatan kebinatangan;
+
+(iii) onani;
+
+(iv) penganiayaan sadis atau masokis dalam konteks seksual;
+
+(v) menunjukkan bagi maksud seksual alat kelamin, punggung, payudara, bahagian pubik atau dubur; dan
+
+(vi) penggunaan apa-apa objek atau peralatan bagi perbuatan yang memberahikan.
+
+### 5. Membuat, menghasilkan, mengarahkan pembuatan atau penghasilan, dsb., bahan penganiayaan seksual kanak-kanak
+
+Mana-mana orang yang membuat, menghasilkan, mengarahkan pembuatan atau penghasilan, atau mengambil bahagian, menyertai atau melibatkan diri, bagaimana sekalipun, dalam pembuatan, penghasilan atau pengarahan pembuatan atau penghasilan, apa-apa bahan penganiayaan seksual kanak-kanak melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga puluh tahun dan hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada enam sebatan.
+
+MISALAN
+
+(a) A, seorang pelakon mendekati Z, seorang pengeluar filem supaya A boleh berlakon dalam salah satu filem Z. Z menawarkan A untuk berlakon dalam filem yang mempunyai adegan A melakukan perlakuan seksual secara terang-terangan dengan seorang kanak-kanak dan A bersetuju untuk berbuat demikian. A berlakon dalam adegan seksual secara terang-terangan itu. A bersalah atas kesalahan di bawah seksyen ini dengan mengambil bahagian dalam penghasilan bahan penganiayaan seksual kanak-kanak.
+
+(b) A seorang pengarah bahan penganiayaan seksual kanak-kanak. A mengupah Z, seorang pengarah seni untuk menyelia aspek artistik pengarahan bahan penganiayaan seksual kanak-kanaknya. Z melakukan sebagaimana yang dikehendaki daripadanya oleh A. Z bersalah atas kesalahan di bawah seksyen ini dengan mengambil bahagian dalam pengarahan pembuatan bahan penganiayaan seksual kanak-kanak.
+
+### 6. Membuat persediaan untuk membuat, menghasilkan atau mengarahkan pembuatan atau penghasilan bahan penganiayaan seksual kanak-kanak
+
+Mana-mana orang yang membuat apa-apa persediaan untuk membuat, menghasilkan atau mengarahkan pembuatan atau penghasilan apa-apa bahan penganiayaan seksual kanak-kanak melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan boleh juga dihukum dengan hukuman sebat. Menggunakan kanak-kanak dalam pembuatan, penghasilan,
+
+### 7. pengarahan pembuatan atau penghasilan, dsb., bahan penganiayaan seksual kanak-kanak
+
+Mana-mana orang yang menggunakan atau menyebabkan digunakan seseorang kanak-kanak dalam persediaan untuk membuat atau menghasilkan, atau dalam persediaan untuk mengarahkan pembuatan atau penghasilan, atau dalam pembuatan atau penghasilan, atau dalam pengarahan pembuatan atau penghasilan, apa-apa bahan penganiayaan seksual kanak-kanak melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun dan hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada lima sebatan.
+
+Huraian—Seksyen ini tidak terpakai sekiranya persediaan untuk membuat atau menghasilkan atau persediaan untuk mengarahkan pembuatan atau penghasilan bahan penganiayaan seksual kanak-kanak atau sekiranya pembuatan atau penghasilan atau pengarahan pembuatan atau penghasilan bahan penganiayaan seksual kanak-kanak menggunakan atau menyebabkan digunakan seseorang yang kelihatan seperti kanak-kanak.
+
+MISALAN
+
+(a) A mengumpan Z, seorang kanak-kanak melalui iklan pertandingan nyanyian palsu dan menggunakan Z dalam pembuatan bahan penganiayaan seksual kanak-kanak. A bersalah atas kesalahan di bawah seksyen ini dengan menggunakan kanak-kanak dalam pembuatan bahan penganiayaan seksual kanak-kanak. A juga bersalah atas kesalahan di bawah seksyen 5 dengan membuat bahan penganiayaan seksual kanak-kanak.
+
+(b) A menawarkan anak perempuannya Z yang berumur enam tahun, kepada B supaya Z digunakan dalam penghasilan bahan penganiayaan seksual kanak-kanak bagi sejumlah wang tertentu. Z digunakan dalam penghasilan bahan penganiayaan seksual kanak-kanak oleh B. A bersalah atas kesalahan di bawah seksyen ini dengan menyebabkan Z, seorang kanak-kanak digunakan dalam penghasilan bahan penganiayaan seksual kanak-kanak. B bersalah atas kesalahan di bawah seksyen ini dengan menggunakan Z, seorang kanak-kanak, dalam penghasilan bahan penganiayaan seksual kanak-kanak dan di bawah seksyen 5 dengan menghasilkan bahan penganiayaan seksual kanak-kanak.
+
+### 8. Bertukar-tukar, menerbitkan, dsb., bahan penganiayaan seksual kanak-kanak
+
+Mana-mana orang yang—
+
+(a) bertukar-tukar, menerbitkan, mencetak, menghasilkan semula, menjual, menyewakan, mengedar, menunjukkan, mengiklankan, menghantar, menggalakkan, mengimport, mengeksport, menyampaikan, menawarkan atau menjadikan tersedia, mengikut apa-apa cara, apa-apa bahan penganiayaan seksual kanak-kanak;
+
+(b) memperoleh, mengumpul atau meminta apa-apa bahan penganiayaan seksual kanak-kanak; atau
+
+(c) mengambil bahagian dalam atau menerima keuntungan daripada apa-apa perniagaan yang diketahuinya atau yang dia mempunyai sebab untuk mempercayai perniagaan itu berkaitan dengan apa-apa bahan penganiayaan seksual kanak-kanak, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima belas tahun dan hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada tiga sebatan.
+
+MISALAN
+
+(a) A seorang pentadbir laman sesawang yang memaparkan bahan penganiayaan seksual kanak-kanak. A bersalah atas kesalahan di bawah seksyen ini dengan menjadikan tersedia bahan penganiayaan seksual kanak-kanak secara dalam talian.
+
+(b) A menjalankan perniagaan perkhidmatan pengangkutan dan menguruskan pengangkutan dan penyimpanan bahan penerbitan yang dimiliki oleh syarikat Z. Bahan penerbitan Z termasuklah bahan penganiayaan seksual kanak-kanak. Z mendedahkan maklumat itu kepada A dan membuat rancangan perkongsian keuntungan dengan A berhubung dengan penjualan bahan penganiayaan seksual kanak-kanak itu dengan syarat yang A terus menjalankan perkhidmatan pengangkutan bagi Z. A menerima tawaran Z. A bersalah atas kesalahan di bawah seksyen ini dengan menerima keuntungan daripada perniagaan yang diketahuinya atau yang dia mempunyai
+
+MISALAN
+
+sebab untuk mempercayai perniagaan itu berkaitan dengan bahan penganiayaan seksual kanak-kanak.
+
+### 9. Menjual, dsb., bahan penganiayaan seksual kanak-kanak kepada kanak-kanak
+
+Mana-mana orang yang menjual, menyewakan, mengedar, menunjukkan, mengiklankan, menghantar, menggalakkan, menyampaikan, menawarkan atau menjadikan tersedia, mengikut apa-apa cara, apa-apa bahan penganiayaan seksual kanak-kanak kepada seseorang kanak-kanak melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima belas tahun dan hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada lima sebatan.
+
+### 10. Mengakses, dsb., bahan penganiayaan seksual kanak-kanak
+
+Mana-mana orang yang mengakses, atau mempunyai dalam milikan atau kawalannya, apa-apa bahan penganiayaan seksual kanak-kanak melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi sepuluh ribu ringgit atau kedua-duanya.
+
+Huraian—Seseorang dikatakan mengakses bahan penganiayaan seksual kanak-kanak jika orang itu dengan diketahuinya menyebabkan bahan penganiayaan seksual kanak-kanak dilihat oleh, atau dihantar kepada, dirinya.
+
+MISALAN
+
+(a) A menerima e-mel daripada penghantar yang tidak diketahui dengan lampiran yang tidak bertajuk. A membuka lampiran itu tanpa mengetahui lampiran itu mengandungi bahan penganiayaan seksual kanak-kanak. Apabila melihat kandungan lampiran itu, A dengan serta-merta menghapuskan e-mel itu daripada akaun e-melnya. A tidak bersalah atas kesalahan di bawah seksyen ini.
+
+MISALAN
+
+(b) A menerima e-mel daripada penghantar yang tidak diketahui dengan lampiran yang tidak bertajuk. A membuka lampiran itu tanpa mengetahui lampiran itu mengandungi bahan penganiayaan seksual kanak-kanak. Apabila melihat kandungan lampiran itu dan meskipun mengetahui lampiran itu mengandungi bahan penganiayaan seksual kanak-kanak, A terus-menerus melihat bahan penganiayaan seksual kanak-kanak itu. A bersalah atas kesalahan di bawah seksyen ini.
+
+(c) A menggunakan komputer milik B dan mendapati bahawa terdapat suatu dokumen yang mengandungi bahan penganiayaan seksual kanak-kanak disimpan dalam cakera keras komputer itu. A menghantar dokumen itu ke dalam pemacu penanya dan menyimpan pemacu pena itu di dalam pejabatnya. A bersalah atas kesalahan di bawah seksyen ini.
+
+## BAHAGIAN III — KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN PENGANTUNAN KANAK-KANAK
+
+### 11. Berkomunikasi secara seksual dengan kanak-kanak
+
+(1) Tertakluk pada subseksyen (3), mana-mana orang yang—
+
+(a) berkomunikasi secara kanak-kanak; atau seksual dengan seseorang (b) menggalakkan seseorang kanak-kanak untuk berkomunikasi secara seksual, melalui apa-apa cara, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi tiga tahun.
+
+(2) Bagi maksud seksyen ini, seseorang dikatakan berkomunikasi secara seksual jika—
+
+(a) komunikasi itu atau mana-mana bahagian komunikasi itu adalah berhubung dengan aktiviti yang bersifat seksual; atau
+
+(b) mana-mana orang yang munasabah akan berpandangan bahawa mana-mana bahagian komunikasi itu adalah seksual.
+
+(3) Tiada seorang pun boleh disabitkan atas kesalahan di bawah seksyen ini jika komunikasi itu adalah bagi maksud pendidikan, sains atau perubatan.
+
+### 12. Pengantunan kanak-kanak
+
+(1) Mana-mana orang yang berkomunikasi melalui apa-apa cara dengan seseorang kanak-kanak dengan niat untuk melakukan atau untuk memudahkan pelakuan mana-mana kesalahan di bawah seksyen 5, 6, 7, 8, 14, 15, 15A atau 15B atau mana-mana kesalahan yang dinyatakan dalam Jadual terhadap kanak-kanak itu melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dihukum dengan hukuman sebat.
+
+(2) Dalam mana-mana prosiding di bawah seksyen ini, fakta bahawa mana-mana kesalahan di bawah seksyen 5, 6, 7, 8, 14, 15, 15A atau 15B atau mana-mana kesalahan yang dinyatakan dalam Jadual telah dilakukan tidak perlu dinyatakan atau dibuktikan.
+
+MISALAN
+
+(a) A berkomunikasi dengan Z, seorang kanak-kanak melalui media sosial dengan berpura-pura menjadi seorang remaja dan memupuk hubungan cinta dengan Z dengan niat untuk menggunakan Z dalam pembuatan bahan penganiayaan seksual kanak-kanak. A tidak pernah berjumpa dengan Z. A bersalah atas kesalahan di bawah seksyen ini.
+
+(b) A berkomunikasi dengan Z, seorang kanak-kanak melalui e-mel dan menjalinkan hubungan persahabatan dengan Z dengan niat bahawa C dan B, iaitu kawan A boleh merogol Z. A tidak pernah berjumpa dengan Z. A bersalah atas kesalahan di bawah seksyen ini.
+
+### 13. Berjumpa selepas pengantunan kanak-kanak
+
+(1) Mana-mana orang yang, setelah berkomunikasi melalui apa-apa cara dengan seseorang kanak-kanak, membuat perjalanan untuk berjumpa dengan kanak-kanak itu atau berjumpa dengan kanak-kanak itu dengan niat untuk melakukan atau untuk memudahkan pelakuan mana-mana kesalahan di bawah seksyen 5, 6, 7, 8, 14, 15, 15A atau 15B atau mana-mana kesalahan yang dinyatakan dalam Jadual terhadap kanak-kanak itu melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun dan boleh juga dihukum dengan hukuman sebat.
+
+(2) Dalam mana-mana prosiding di bawah seksyen ini, fakta bahawa mana-mana kesalahan di bawah seksyen 5, 6, 7, 8, 14, 15, 15A atau 15B atau mana-mana kesalahan yang dinyatakan dalam Jadual telah dilakukan tidak perlu dinyatakan atau dibuktikan.
+
+MISALAN
+
+(a) A berkomunikasi dengan Z, seorang kanak-kanak melalui media sosial dengan berpura-pura menjadi seorang remaja dan memupuk hubungan cinta dengan Z. A mengambil langkah selanjutnya dan berjumpa dengan Z dengan niat untuk menggunakan Z dalam pembuatan bahan penganiayaan seksual kanak-kanak. A bersalah atas kesalahan di bawah seksyen ini.
+
+(b) A berkomunikasi dengan Z, seorang kanak-kanak melalui e-mel dan menjalinkan hubungan persahabatan dengan Z. A mengambil langkah selanjutnya dan berjumpa Z dengan niat bahawa C dan B, iaitu kawan A boleh merogol Z. A bersalah atas kesalahan di bawah seksyen ini.
+
+## BAHAGIAN IV — KESALAHAN-KESALAHAN YANG BERHUBUNGAN DENGAN AMANG SEKSUAL, PERSEMBAHAN SEKSUAL DAN PEMERASAN SEKSUAL
+
+### 14. Amang seksual fizikal atas kanak-kanak
+
+Mana-mana orang yang, bagi maksud seksual—
+
+(a) menyentuh mana-mana kanak-kanak; bahagian badan seseorang (b) membuatkan seseorang kanak-kanak menyentuh mana-mana bahagian badan orang itu atau bahagian badan mana-mana orang lain;
+
+(c) membuatkan seseorang kanak-kanak menyentuh mana-mana bahagian badan kanak-kanak itu sendiri; atau
+
+(d) melakukan apa-apa perbuatan lain yang melibatkan kontak fizikal dengan seseorang kanak-kanak tanpa persetubuhan, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun dan boleh juga dihukum dengan hukuman sebat.
+
+Huraian 1—Perbuatan menyentuh boleh melibatkan perbuatan menyentuh dengan menggunakan mana-mana bahagian badan atau dengan suatu objek dan boleh dilakukan melalui apa-apa sahaja termasuk apa-apa sahaja yang dipakai oleh orang yang menyentuh atau kanak-kanak yang disentuh.
+
+Huraian 2— Dalam menentukan apakah yang menjadi maksud seksual, mahkamah boleh menimbangkan, antara lain, bahagian badan yang disentuh, sifat dan takat perbuatan menyentuh atau kontak fizikal dan semua hal keadaan lain yang berkenaan dengan perlakuan itu.
+
+### 15. Amang seksual bukan fizikal atas kanak-kanak
+
+Mana-mana orang yang—
+
+(a) bagi maksud seksual—
+
+(i) mengatakan apa-apa perkataan atau membuat apa-apa bunyi, atau membuat apa-apa gerak isyarat atau menunjukkan apa-apa objek atau badannya atau mana-mana bahagian badannya dengan niat bahawa perkataan atau bunyi itu hendaklah didengari, atau gerak isyarat atau objek atau badan atau bahagian badannya itu hendaklah dilihat oleh seseorang kanak-kanak;
+
+(ii) membuatkan seseorang kanak-kanak menunjukkan badan kanak-kanak itu atau mana-mana bahagian badan kanak-kanak itu supaya dapat dilihat oleh orang itu atau mana-mana orang lain; atau
+
+(iii) mengikuti atau memerhati atau menghubungi seseorang kanak-kanak melalui apa-apa cara secara berulang kali atau kerap;
+
+(b) (Dipotong oleh Akta A1687);
+
+(c) melakukan aktiviti yang bersifat seksual di hadapan seseorang kanak-kanak;
+
+(d) menyebabkan seseorang kanak-kanak memerhati orang itu atau mana-mana orang lain sedang melakukan aktiviti yang bersifat seksual;
+
+(e) menyebabkan seseorang kanak-kanak memerhati atau mendengar apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah mengenai orang itu atau mana-mana orang lain yang melakukan aktiviti yang bersifat seksual; atau
+
+(f) membuatkan seseorang kanak-kanak melakukan aktiviti yang bersifat seksual, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi sepuluh tahun atau didenda tidak melebihi dua puluh ribu ringgit atau kedua-duanya.
+
+Huraian—Dalam menentukan apakah yang menjadi maksud seksual, mahkamah boleh menimbangkan, antara lain, perkataan yang diperkatakan, sifat dan takat gerak isyarat dan semua hal keadaan lain yang berkenaan dengan perlakuan itu.
+
+### 15A. Persembahan seksual oleh kanak-kanak
+
+(1) Mana-mana orang yang—
+
+(a) menawarkan, memperoleh atau menjadikan tersedia seseorang kanak-kanak untuk suatu persembahan seksual;
+
+(b) membuatkan atau menyebabkan seseorang kanak-kanak melakukan persembahan seksual;
+
+(c) turut serta, sama ada sebagai peserta atau penonton, dalam persembahan seksual oleh seseorang kanak-kanak;
+
+(d) mengiklankan, mempromosikan atau memudahkan persembahan seksual oleh seseorang kanak-kanak; atau
+
+(e) menerima apa-apa manfaat, termasuk manfaat kewangan, daripada persembahan seksual oleh seseorang kanak-kanak, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi dua puluh tahun dan boleh juga didenda tidak melebihi lima puluh ribu ringgit.
+
+(2) Bagi maksud seksyen ini, “persembahan seksual” ertinya apa-apa perlakuan seksual secara terang-terangan yang dipersembahkan di hadapan seorang penonton atau lebih, termasuk yang dirakam atau dihantar keseluruhannya atau sebahagiannya, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau gabungan apa-apa cara.
+
+MISALAN
+
+(a) A meminta Z, seorang kanak-kanak, membuat tarian riba di atas B sambil dirakam oleh A. A kemudian membuat hantaran persembahan tarian yang dirakam itu di akaun media sosialnya. A bersalah atas kesalahan di bawah seksyen ini dengan menyebabkan seseorang kanak-kanak melakukan persembahan seksual. B bersalah atas kesalahan di bawah seksyen ini dengan turut serta sebagai peserta dalam persembahan seksual oleh kanak-kanak.
+
+(b) A bertemu B dalam aplikasi mencari pasangan dalam talian dan menawarkan B wang untuk mengatur suatu pertunjukan seks dengan anak-anak B. B menyuruh dua orang anaknya menanggalkan pakaian dan melakukan simulasi perlakuan seksual secara terang-terangan sambil distrim secara langsung melalui panggilan video dengan A. A bersalah atas kesalahan di bawah seksyen ini dengan menyebabkan seseorang kanak-kanak melakukan persembahan seksual dan dengan turut serta dalam persembahan seksual oleh kanak-kanak. B bersalah atas kesalahan di bawah seksyen ini dengan menjadikan tersedia kanak-kanak untuk persembahan seksual dan memudahkan persembahan seksual oleh kanak-kanak.
+
+### 15B. Pemerasan seksual kanak-kanak
+
+Mana-mana orang yang—
+
+(a) mengugut seseorang kanak-kanak untuk melakukan aktiviti yang bersifat seksual;
+
+(b) mengugut seseorang kanak-kanak untuk berkongsi apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah mengenai badan atau mana-mana bahagian badan kanak-kanak yang mendedahkan alat kelamin, punggung, payudara, bahagian pubik atau dubur kanak-kanak atau mengenai kanak-kanak yang melakukan aktiviti yang bersifat seksual; atau
+
+(c) mengugut untuk menggunakan atau mengedar apa-apa gambaran yang keseluruhannya atau sebahagiannya, sama ada dalam bentuk visual, audio atau bertulis atau gabungan bentuk visual, audio atau bertulis, melalui apa-apa cara termasuk tetapi tidak terhad kepada cara elektronik, mekanikal, digital, optik atau magnetik, atau dihasilkan secara manual, atau gabungan apa-apa cara, adalah mengenai badan atau mana-mana bahagian badan kanak-kanak yang mendedahkan alat kelamin, punggung, payudara, bahagian pubik atau dubur kanak-kanak atau mengenai kanak-kanak yang melakukan aktiviti yang bersifat seksual, melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi sepuluh tahun.
+
+Huraian—Perbuatan mengugut di bawah seksyen ini boleh melibatkan penggunaan dorongan, paksaan atau kekerasan.
+
+MISALAN
+
+(a) Z, seorang kanak-kanak, secara sukarela berkongsi gambar separuh bogelnya dengan A. A kemudian mengugut Z untuk membuat hantaran gambar itu di akaun media sosial A melainkan jika Z menghantar gambar bogel Z kepada A. A bersalah atas kesalahan di bawah seksyen ini.
+
+(b) A menawarkan Z, seorang kanak-kanak, wang untuk menanggalkan pakaian untuk A semasa panggilan video. A merakam panggilan video itu dan kemudian mengugut Z bahawa A akan menghantar video yang dirakam itu kepada ibu bapa Z melainkan jika Z bersetuju untuk melakukan persetubuhan dengan A. A bersalah atas kesalahan di bawah seksyen ini.
+
+## BAHAGIAN V — ORANG YANG MEMPUNYAI HUBUNGAN AMANAH
+
+### 16.
+
+(1) Jika seseorang yang melakukan mana-mana kesalahan di bawah Akta ini atau mana-mana kesalahan yang dinyatakan dalam Jadual terhadap seseorang kanak-kanak, mempunyai hubungan amanah dengan kanak-kanak itu, orang itu hendaklah, sebagai tambahan kepada hukuman yang dia boleh dikenakan bagi kesalahan itu, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan hendaklah juga dihukum dengan hukuman sebat tidak kurang daripada dua sebatan.
+
+(2) Dalam seksyen ini, seseorang dikatakan mempunyai hubungan amanah dengan seseorang kanak-kanak jika kanak-kanak itu berada di bawah pemeliharaan, pengawasan atau kuasanya, termasuk tetapi tidak terhad kepada—
+
+(a) ibu atau bapa, penjaga atau seseorang yang mempunyai hubungan persaudaraan melalui pertalian darah seibu sebapa atau pertalian darah seibu atau sebapa, atau melalui perkahwinan atau pengangkatan, termasuk pengangkatan de facto;
+
+(b) seseorang yang mengasuh seorang kanak-kanak atau lebih bagi balasan berharga bagi apa-apa tempoh masa;
+
+(c) guru, pensyarah atau warden sesuatu tadika, sekolah, institusi pengajian tinggi awam atau institusi pengajian tinggi swasta;
+
+(d) mana-mana orang yang menyediakan perkhidmatan jagaan kesihatan di kemudahan jagaan kesihatan Kerajaan atau kemudahan jagaan kesihatan swasta sebagaimana yang ditakrifkan dalam seksyen 2 Akta Kemudahan dan Perkhidmatan Jagaan Kesihatan Swasta 1998 [Akta 586];
+
+(e) jurulatih; dan
+
+(f) pekhidmat awam dengan apa jua pangkat dalam menjalankan kewajipannya di bawah mana-mana undang-undang bertulis berkenaan dengan kanak-kanak itu.
+
+## BAHAGIAN VI — KEUPAYAAN DAN KETERANGAN SAKSI KANAK-KANAK
+
+### 17. Anggapan keupayaan saksi kanak-kanak
+
+Walau apa pun apa-apa yang berlawanan dalam mana-mana undang-undang bertulis yang lain, dalam mana-mana prosiding terhadap mana-mana orang yang berhubungan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, seseorang kanak-kanak dianggap kompeten untuk memberikan keterangan melainkan jika mahkamah berpendapat selainnya.
+
+### 18. Keterangan saksi kanak-kanak
+
+Walau apa pun apa-apa yang berlawanan dalam mana-mana undang-undang bertulis yang lain, dalam mana-mana prosiding terhadap mana-mana orang yang berhubungan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, mahkamah boleh mensabitkan orang itu bagi kesalahan itu berasaskan keterangan tanpa sokongan seseorang kanak-kanak, yang diberikan dengan sumpah atau selainnya.
+
+## BAHAGIAN VII — PELBAGAI
+
+### 19. Kegagalan memberikan maklumat
+
+Walau apa pun seksyen 13 Kanun Tatacara Jenayah [Akta 593], mana-mana orang yang tidak memberikan maklumat mengenai pelakuan atau niat mana-mana orang lain untuk melakukan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, kepada pegawai yang menjaga balai polis yang berdekatan, melakukan suatu kesalahan dan boleh, jika disabitkan, didenda tidak melebihi lima ribu ringgit.
+
+### 20. Anggapan umur kanak-kanak
+
+Tidak menjadi suatu pembelaan terhadap pertuduhan bagi mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, bahawa seseorang tertuduh mempercayai bahawa umur kanak-kanak itu ialah umur atau lebih daripada umur yang dinyatakan dalam peruntukan kesalahan itu masing-masing pada masa kesalahan itu dikatakan telah dilakukan melainkan jika tertuduh itu telah mengambil semua langkah yang munasabah untuk menentukan umur kanak-kanak itu.
+
+### 21. Persubahatan
+
+Mana-mana orang yang bersubahat dalam pelakuan mana-mana kesalahan yang boleh dihukum di bawah Akta ini hendaklah, jika perbuatan yang disubahati itu dilakukan berbangkit daripada persubahatan itu, dihukum dengan hukuman yang diperuntukkan bagi kesalahan itu.
+
+### 22. Keterangan ejen provokasi boleh diterima
+
+(1) Walau apa pun mana-mana undang-undang atau rukun undang-undang yang berlawanan, dalam mana-mana prosiding terhadap mana-mana orang yang berhubungan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, tiada ejen provokasi boleh dianggap tidak boleh dipercayai semata-mata kerana dia telah cuba melakukan atau bersubahat, atau telah bersubahat atau terlibat dalam konspirasi jenayah untuk melakukan, kesalahan itu jika tujuan utama percubaan, persubahatan atau penglibatan itu adalah untuk mendapatkan keterangan terhadap orang itu.
+
+(2) Walau apa pun mana-mana undang-undang atau rukun undang-undang yang berlawanan, suatu sabitan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, yang berasaskan semata-mata pada keterangan tanpa sokongan mana-mana ejen provokasi tidaklah menjadi tidak sah dan tiada sabitan sedemikian boleh diketepikan hanya kerana mahkamah yang membicarakan kes itu tidak menyebut dalam alasan penghakimannya keperluan supaya mengingatkan dirinya tentang bahaya membuat sabitan berdasarkan pada keterangan sedemikian.
+
+### 23. Kesalahan oleh pertubuhan perbadanan
+
+Jika mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak telah dilakukan oleh suatu pertubuhan perbadanan, mana-mana orang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pengurus, setiausaha atau pegawai lain seumpamanya pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas mana-mana sifat sedemikian, atau mengikut apa-apa cara bertanggungjawab bagi pengurusan apa-apa hal ehwal pertubuhan perbadanan itu, atau yang membantu dalam pengurusan sedemikian, hendaklah juga bersalah atas kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa pengetahuannya, keizinannya atau pembiarannya, dan bahawa dia telah menjalankan segala usaha yang wajar untuk mengelakkan pelakuan kesalahan itu sebagaimana yang dia patut jalankan, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan.
+
+### 24. Ketidakpakaian seksyen 173A, 293 dan 294 Kanun Tatacara Jenayah
+
+Seksyen 173A, 293 dan 294 Kanun Tatacara Jenayah tidak terpakai berkenaan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, jika orang yang disabitkan atas kesalahan itu berumur lapan belas tahun atau atas lapan belas tahun.
+
+### 25. Peruntukan mengenai hukuman sebat
+
+Walau apa pun perenggan 289(c) Kanun Tatacara Jenayah, jika seseorang disabitkan atas mana-mana kesalahan di bawah Akta ini ialah lelaki yang mahkamah berpandangan berumur lebih daripada lima puluh tahun, orang itu masih boleh dihukum dengan hukuman sebat.
+
+### 26. Kaunseling pemulihan
+
+(1) Mahkamah boleh, sebagai tambahan kepada apa-apa hukuman yang dikenakan bagi mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, memerintahkan suatu tempoh kaunseling pemulihan terhadap orang yang disabitkan atas kesalahan itu dalam tempoh penahanannya.
+
+(2) Kaunseling pemulihan yang diperintahkan di bawah subseksyen (1) hendaklah di bawah Menteri yang dipertanggungkan dengan tanggungjawab bagi penjara. Perintah bagi kanak-kanak pembayaran pampasan kepada mangsa
+
+### 26A.
+
+(1) Mahkamah yang di hadapannya seseorang disabitkan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, boleh membuat suatu perintah terhadap orang yang disabitkan itu bagi pembayaran olehnya suatu jumlah wang yang hendaklah ditetapkan oleh mahkamah itu sebagaimana yang difikirkannya adil dan munasabah sebagai pampasan kepada mangsa kanak-kanak berkenaan dengan kecederaan yang dialami oleh mangsa kanak-kanak itu akibat daripada kesalahan yang dilakukan itu.
+
+(2) Jika orang yang disabitkan atas kesalahan yang disebut dalam subseksyen (1) ialah seorang kanak-kanak, mahkamah hendaklah membuat perintah bagi pembayaran pampasan itu dibuat oleh ibu atau bapa atau penjaga kanak-kanak itu.
+
+(3) Jika mangsa kanak-kanak itu mati, mahkamah hendaklah membuat perintah supaya pembayaran pampasan itu dibuat kepada wakil mangsa kanak-kanak yang mati itu.
+
+(4) Mahkamah hendaklah, dalam membuat perintah di bawah subseksyen (1), mengambil kira apa-apa faktor yang mahkamah fikirkan patut termasuk—
+
+(a) jenis dan keseriusan kesalahan yang dilakukan itu;
+
+(b) kecederaan fizikal atau emosi yang dialami oleh mangsa kanak-kanak itu;
+
+(c) perbelanjaan yang ditanggung oleh mangsa kanak-kanak itu, termasuk perbelanjaan bagi rawatan, pemulihan atau kaunseling mangsa kanak-kanak itu;
+
+(d) kerosakan pada, atau kehilangan, harta yang dialami oleh mangsa kanak-kanak itu; dan
+
+(e) keupayaan orang yang disabitkan itu untuk membayar atau jika orang yang disabitkan itu ialah seorang kanak-kanak, keupayaan ibu atau bapa atau penjaga kanak-kanak itu untuk membayar.
+
+(5) Bagi maksud membuat perintah di bawah subseksyen (1), mahkamah boleh mengadakan suatu inkuiri sebagaimana yang difikirkannya patut.
+
+(6) Jika mahkamah membuat perintah bagi pembayaran kos pendakwaan di bawah seksyen 426 Kanun Tatacara Jenayah terhadap orang yang disabitkan berkenaan dengan mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, perintah bagi pembayaran pampasan di bawah seksyen ini hendaklah mempunyai keutamaan daripada perintah bagi pembayaran kos pendakwaan itu.
+
+(7) Setakat amaun yang telah dibayar kepada mangsa kanak-kanak itu, atau kepada wakil mangsa kanak-kanak itu, di bawah suatu perintah bagi pembayaran pampasan, apa-apa tuntutan oleh mangsa kanak-kanak itu atau wakil mangsa kanak-kanak itu bagi apa-apa kecederaan, kerosakan atau kehilangan yang dialami disebabkan oleh kesalahan itu hendaklah disifatkan telah dipenuhi, tetapi perintah bagi pembayaran itu tidak boleh menjejaskan apa-apa hak kepada suatu remedi sivil oleh mangsa kanak-kanak itu atau oleh wakil mangsa kanak-kanak itu terhadap orang yang disabitkan bagi ganti rugi yang melebihi amaun pampasan yang dibayar di bawah perintah itu.
+
+(8) Tiap-tiap perintah yang dibuat oleh mahkamah di bawah seksyen ini boleh dirayu kepada Mahkamah Tinggi.
+
+### 26B. Peruntukan tentang pembayaran pampasan
+
+(1) Jika orang yang disabitkan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak diperintahkan untuk membayar apa-apa jumlah wang sebagai pampasan di bawah seksyen 26A, mahkamah yang membuat perintah itu boleh membuat semua atau mana-mana yang berikut:
+
+(a) memberikan masa bagi pembayaran jumlah wang itu;
+
+(b) mengarahkan pembayaran jumlah wang itu secara ansuran;
+
+(c) mengeluarkan suatu waran bagi melevikan jumlah wang itu melalui distres dan penjualan apa-apa harta kepunyaan orang yang disabitkan itu;
+
+(d) mengarahkan supaya apabila ingkar membayar jumlah wang itu atau tiada distres yang mencukupi untuk menyelesaikan jumlah wang itu, orang yang disabitkan itu hendaklah menjalani pemenjaraan selama suatu tempoh yang tertentu, yang pemenjaraan itu hendaklah menjadi tambahan kepada apa-apa pemenjaraan lain yang dengannya dia boleh dihukum atau yang dengannya dia boleh dikenakan di bawah suatu peringanan hukuman: Dengan syarat bahawa jika masa bagi pembayaran jumlah wang itu tidak diberikan, suatu perintah bagi pemenjaraan apabila ingkar membayar tidak boleh dikeluarkan pada mula-mulanya melainkan jika mahkamah itu mendapati bahawa orang yang disabitkan itu tidak mempunyai harta atau tidak mempunyai harta yang mencukupi untuk menyelesaikan jumlah wang yang kena dibayar atau bahawa levi melalui distres itu akan lebih memudaratkannya atau keluarganya daripada pemenjaraan;
+
+(e) mengarahkan supaya orang yang disabitkan itu diperiksa dan supaya apa-apa wang yang didapati padanya apabila diperiksa sedemikian atau yang jika dia dikomitkan ke penjara, boleh didapati padanya apabila dibawa ke penjara hendaklah digunakan bagi pembayaran jumlah wang itu, yang lebihannya, jika ada, dipulangkan kepadanya: Dengan syarat bahawa wang itu tidak boleh digunakan sedemikian jika mahkamah itu berpuas hati bahawa wang itu bukan kepunyaan orang yang disabitkan itu yang padanya wang itu didapati atau bahawa kehilangan wang itu akan lebih memudaratkan keluarganya daripada pemenjaraannya.
+
+(2) Tempoh yang baginya mahkamah mengarahkan supaya orang yang disabitkan itu dipenjarakan apabila ingkar membayar jumlah wang itu atau tiada distres yang mencukupi untuk menyelesaikan apaapa jumlah wang tidak boleh melebihi skala yang berikut: Apabila wang yang hendaklah dibayar tidak melebihi RM500 ………… Satu bulan Apabila wang yang hendaklah dibayar melebihi RM500 tetapi tidak melebihi
+
+RM1000
+
+………… Dua bulan Dalam apa-apa hal lain ………… Enam bulan (3) Pemenjaraan yang dikenakan oleh mahkamah di bawah seksyen ini hendaklah tamat pada bila-bila masa wang itu dibayar atau dilevikan melalui proses undang-undang.
+
+(4) Jika sebelum habis masa pemenjaraan itu sekian kadar wang itu dibayar atau dilevikan yang masa pemenjaraan yang telah dijalani adalah tidak kurang daripada perkadaran dengan bahagian wang yang masih belum dibayar, pemenjaraan itu hendaklah tamat.
+
+(5) Suatu waran untuk melevikan apa-apa jumlah wang sedemikian boleh dilaksanakan di mana-mana tempat di Malaysia tetapi jika ia dikehendaki dilaksanakan di luar Negeri di mana waran itu dikeluarkan, waran itu hendaklah diendorskan bagi maksud itu oleh Hakim atau Majistret Kelas Pertama yang mempunyai bidang kuasa di dalam Negeri di mana waran itu dikehendaki dilaksanakan.
+
+### 27. Pengawasan polis
+
+(1) Walau apa pun subseksyen 295(1) Kanun Tatacara Jenayah, sama ada dia dahulunya telah disabitkan atas apa-apa kesalahan atau tidak, apabila seseorang disabitkan atas mana-mana kesalahan di bawah Akta ini, atau mana-mana kesalahan yang dinyatakan dalam Jadual sekiranya mangsa ialah kanak-kanak, mahkamah hendaklah mengarahkan supaya dia diletakkan di bawah pengawasan polis bagi suatu tempoh yang tidak kurang daripada satu tahun dan tidak lebih daripada tiga tahun bermula sebaik selepas habis tempoh hukuman yang dijatuhkan terhadapnya.
+
+(2) Apabila mana-mana orang yang diletakkan di bawah pengawasan polis di bawah subseksyen (1), semasa masih berada di bawah pengawasan itu, dihukum dengan suatu tempoh pemenjaraan di dalam Malaysia, apa-apa tempoh yang dijalani di dalam penjara hendaklah dikecualikan daripada tempoh pengawasan.
+
+## Jadual
+
+\28. Menteri boleh, selepas berunding dengan Pendakwa Raya, meminda Jadual melalui perintah yang disiarkan dalam Warta, termasuk untuk mengeluarkan atau memasukkan apa-apa kesalahan dengan apa-apa perihalan di bawah mana-mana undang-undang bertulis.
+
+## JADUAL
+
+[Seksyen 2, 3, 12, 13, 16, 17, 18, 19, 20, 22, 23, 24, 26, 27 dan 28]
+
+\1. Seksyen 354, 372, 375, 375B, 376, 376A, 376B, 377A, 377B, 377C, 377CA, 377D, 377E atau 509 Kanun Keseksaan [Akta 574] kecuali—
+
+(a) bagi maksud seksyen 24 Akta ini yang berhubungan dengan ketidakpakaian seksyen 173A dan 294 Kanun Tatacara Jenayah bagi kesalahan berat di bawah Kanun Keseksaan; dan
+
+(b) bagi maksud seksyen 26 dan 27 Akta ini yang berhubungan dengan seksyen 376, 377C, 377CA dan 377E Kanun Keseksaan
+
+\2. Seksyen 14 atau 15 Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007 [Akta 670], setakat yang ia berhubung dengan eksploitasi seks kecuali—
+
+(a) bagi maksud seksyen 3 Akta ini yang berhubungan dengan pemakaian perenggan 4(b) dan (c) Akta Antipemerdagangan Orang dan Antipenyeludupan Migran 2007; dan
+
+(b) bagi maksud seksyen 22 dan 23 Akta ini
+
+\3. Seksyen 31 setakat yang ia berhubung dengan penganiayaan dari segi seks atau seksyen 43 Akta Kanak-Kanak 2001 [Akta 611]
+
+\4. Seksyen 211 atau 233 Akta Komunikasi dan Multimedia 1998 [Akta 588] kecuali bagi maksud seksyen 3 dan 23 Akta ini
+
+\5. Seksyen 5 Akta Penapisan Filem 2002 [Akta 620] kecuali bagi maksud seksyen 23 Akta ini
