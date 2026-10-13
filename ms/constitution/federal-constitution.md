@@ -6,7 +6,7 @@ jurisdiction: my
 language: ms
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1763521_BM/WJW25%EF%80%A20912%20Cetakan%20naskhah%202025_PP.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Perlembagaan Persekutuan

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-10-02
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Akta%20794.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEREMPUAN BERSUAMI DAN ANAK-ANAK (PENGUATKUASAAN NAFKAH)

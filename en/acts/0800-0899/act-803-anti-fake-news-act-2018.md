@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-04-11
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20180411_803_BI_WJW010830%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # ANTI-FAKE NEWS ACT 2018

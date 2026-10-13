@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1696015_BI/Act%20823.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # FINANCE ACT 2019

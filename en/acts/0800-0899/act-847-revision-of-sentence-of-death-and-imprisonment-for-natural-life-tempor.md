@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-06-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1826844_BI/WJW23%EF%80%A20560%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # REVISION OF SENTENCE OF DEATH AND IMPRISONMENT FOR NATURAL LIFE (TEMPORARY JURISDICTION OF THE FEDERAL COURT) ACT 2023

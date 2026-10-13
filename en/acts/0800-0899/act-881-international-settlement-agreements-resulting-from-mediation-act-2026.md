@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-05-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3522679_BI/Act%20881%20-%20INTERNATIONAL%20SETTLEMENT%20AGREEMENTS%20RESULTING%20FROM%20MEDIATION%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # INTERNATIONAL SETTLEMENT AGREEMENTS RESULTING FROM MEDIATION ACT 2026

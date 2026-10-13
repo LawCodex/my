@@ -7,7 +7,7 @@ language: ms
 last_amended: 2022-03-18
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1726480_BM/Draf%20Muktamad%20Akta%20815%20%2818.3.2022%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA CAP DAGANGAN

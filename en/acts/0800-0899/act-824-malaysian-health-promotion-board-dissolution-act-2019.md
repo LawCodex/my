@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20191231_824_BI_Act%20824.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # MALAYSIAN HEALTH PROMOTION BOARD (DISSOLUTION) ACT 2019

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-11-12
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/20181112_809_BM_Warta%20-%20Akta%20Pertaruhan%20Wang%20Terkumpul%201967%20%5BAkta%20809%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERTARUHAN WANG TERKUMPUL 1967

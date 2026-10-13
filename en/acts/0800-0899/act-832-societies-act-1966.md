@@ -7,7 +7,7 @@ language: en
 last_amended: 2021-11-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1714338_BI/832%20Teks%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SOCIETIES ACT 1966

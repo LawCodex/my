@@ -7,7 +7,7 @@ language: ms
 last_amended: 2021-11-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1714338_BM/832%20Teks%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERTUBUHAN 1966

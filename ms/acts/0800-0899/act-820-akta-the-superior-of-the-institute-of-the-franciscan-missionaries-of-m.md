@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-10-23
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1857678_BM/AKTA%20820.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA THE SUPERIOR OF THE INSTITUTE OF THE FRANCISCAN MISSIONARIES OF MARY (PEMERBADANAN) 1957

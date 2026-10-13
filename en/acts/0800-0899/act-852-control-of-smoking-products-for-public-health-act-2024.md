@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-02-02
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1998006_BI/WJW240100%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CONTROL OF SMOKING PRODUCTS FOR PUBLIC HEALTH ACT 2024

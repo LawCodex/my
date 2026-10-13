@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-12-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2058968_BM/Akta%20%20813%20%28Dalam%20talian%202025%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LEVI PELEPASAN 2019

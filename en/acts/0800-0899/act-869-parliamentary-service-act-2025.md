@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-07-18
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2969226_BI/Act%20869-%20PARLIAMENTARY%20SERVICE%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PARLIAMENTARY SERVICE ACT 2025

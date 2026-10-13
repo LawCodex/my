@@ -7,7 +7,7 @@ language: en
 last_amended: 2017-03-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20180329_WJW010784BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PRIVATE AGED HEALTHCARE FACILITIES AND SERVICES ACT 2018

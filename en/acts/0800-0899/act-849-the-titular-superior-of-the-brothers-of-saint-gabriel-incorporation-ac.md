@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-10-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1869311_BI/Act%20849%20The%20Titular%20Superior%20of%20The%20Brothers%20Of%20Saint%20Gabriel%20%28Incorporation%29%20Act%201957%20%28BI%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE TITULAR SUPERIOR OF THE BROTHERS OF SAINT GABRIEL (INCORPORATION) ACT 1957

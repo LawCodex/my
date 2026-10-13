@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3272166_BI/Act%20872%20-%20GIG%20WORKERS%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # GIG WORKERS ACT 2025

@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-05-08
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1813992_BI/Act%20844%20Muktamad.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE PURE LIFE SOCIETY (SHUDDHA SAMAJAM) INCORPORATION ACT 1957

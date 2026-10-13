@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-12-13
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1695975_BM/WJW24%EF%80%A20906%20Akta%20714%20%28Dimansuh%20oleh%20Akta%20811%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA SURUHANJAYA PENGANGKUTAN AWAM DARAT 2010 (Dimansuhkan oleh Akta Suruhanjaya

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-10-02
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Akta%20793.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PENANAM PADI (PENGAWALAN SEWA DAN JAMINAN PEMEGANGAN) 1967

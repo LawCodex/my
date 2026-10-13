@@ -7,7 +7,7 @@ language: ms
 last_amended: 2022-01-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1720930_BM/Akta%20829%20-Muktamad.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LANGKAH-LANGKAH SEMENTARA BAGI MENGURANGKAN KESAN PENYAKIT KORONAVIRUS 2019 (COVID-19) 2020

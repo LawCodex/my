@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_818_BI_818%20ACT.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE OVERSEAS MISSIONARY FELLOWSHIP (INCORPORATION) ACT 1957

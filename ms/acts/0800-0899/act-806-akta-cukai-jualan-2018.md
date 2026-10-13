@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-01-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3439682_BM/Akta%20806%20%28Dalam%20Talian%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA CUKAI JUALAN 2018

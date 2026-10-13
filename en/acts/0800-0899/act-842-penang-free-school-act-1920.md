@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-02-22
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1785307_BI/Act%20842%20Penang%20Free%20School%20Act%201920.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PENANG FREE SCHOOL ACT 1920

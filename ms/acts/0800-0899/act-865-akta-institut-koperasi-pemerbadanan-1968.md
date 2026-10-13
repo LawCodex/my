@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-05-14
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2864054_BM/Akta%20865%20AKTA%20INSTITUT%20KOPERASI%20%28EMERBADANAN%291968.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA INSTITUT KOPERASI (PEMERBADANAN) 1968

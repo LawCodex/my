@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-09-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3696948_BI/NATIONAL%20TRUST%20FUND%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # NATIONAL TRUST FUND ACT 2026

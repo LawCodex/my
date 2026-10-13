@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2430998_BM/Akta%20860.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA AGENSI KAWALAN DAN PERLINDUNGAN SEMPADAN MALAYSIA 2024

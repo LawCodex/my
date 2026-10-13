@@ -7,7 +7,7 @@ language: en
 last_amended: 2017-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20171017_795BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # ACCESS TO BIOLOGICAL RESOURCES AND BENEFIT SHARING ACT 2017

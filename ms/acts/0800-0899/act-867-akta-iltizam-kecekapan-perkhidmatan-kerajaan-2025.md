@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-05-22
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2867079_BM/Akta%20867-Akta%20Iltizam%20Kecekapan%20Perkhidmatan%20Kerajaan%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA ILTIZAM KECEKAPAN PERKHIDMATAN KERAJAAN 2025

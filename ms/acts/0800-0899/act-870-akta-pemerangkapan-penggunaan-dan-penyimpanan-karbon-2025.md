@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-08-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2995040_BM/Akta%20870%20AKTA%20PEMERANGKAPAN%2C%20PENGGUNAAN%20DAN%20PENYIMPANAN%20KARBON%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEMERANGKAPAN, PENGGUNAAN DAN PENYIMPANAN KARBON 2025

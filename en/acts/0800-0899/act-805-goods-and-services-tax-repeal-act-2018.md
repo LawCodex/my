@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-08-28
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20180828_805_BI_Act%20805%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # GOODS AND SERVICES TAX (REPEAL) ACT 2018

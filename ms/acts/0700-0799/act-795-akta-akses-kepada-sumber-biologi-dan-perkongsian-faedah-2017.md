@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBM_20171017_795BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA AKSES KEPADA SUMBER BIOLOGI DAN PERKONGSIAN FAEDAH 2017

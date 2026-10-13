@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3131137_BI/FEES%20%28PENGKALAN%20KUBOR%20FERRY%29%20%28VALIDATION%29%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # FEES (PENGKALAN KUBOR FERRY) (VALIDATION) ACT 2025

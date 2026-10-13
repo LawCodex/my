@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-03-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3435539_BI/Act%20880%20-%20CAPITATION%20GRANT%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CAPITATION GRANT ACT 2026

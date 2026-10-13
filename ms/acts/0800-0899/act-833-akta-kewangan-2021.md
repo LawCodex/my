@@ -7,7 +7,7 @@ language: ms
 last_amended: 2021-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1719465_BM/AKTA%20833.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN 2021

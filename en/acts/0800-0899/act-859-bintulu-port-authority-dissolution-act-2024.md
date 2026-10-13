@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2430798_BI/Act%20859.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # BINTULU PORT AUTHORITY (DISSOLUTION) ACT 2024

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2022-03-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1725650_BM/Akta%20835.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KILANG DAN JENTERA (PEMANSUHAN) 2022

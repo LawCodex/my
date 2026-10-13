@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-07-11
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841831_BI/ACT%20792%20%28MUKTAMAD%29%20AS%20AT%2011%20JULY%202023.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SEXUAL OFFENCES AGAINST CHILDREN ACT 2017

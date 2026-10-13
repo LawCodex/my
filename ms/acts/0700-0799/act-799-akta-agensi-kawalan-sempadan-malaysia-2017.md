@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-11-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBM_20171130_799BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA AGENSI KAWALAN SEMPADAN MALAYSIA 2017

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-02-22
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1843893_BM/TEKS%20TERJEMAHAN%20AKTA%20PENANG%20FREE%20SCHOOL%201920%20VERSI%20DISEMAK%202023%20%5BAKTA%20842%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PENANG FREE SCHOOL 1920

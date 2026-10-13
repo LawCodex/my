@@ -7,7 +7,7 @@ language: en
 last_amended: 2020-01-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/757236_BI/Act%20825%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # ANTI-FAKE NEWS (REPEAL) ACT 2020

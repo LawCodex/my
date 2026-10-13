@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-05-22
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2867049_BM/Akta%20866-Akta%20Keselamatan%20Dalam%20Talian%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KESELAMATAN DALAM TALIAN 2025

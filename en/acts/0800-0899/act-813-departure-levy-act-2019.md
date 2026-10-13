@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-12-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2058968_BI/ACT%20813%20%20%28Online%202025%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # DEPARTURE LEVY ACT 2019

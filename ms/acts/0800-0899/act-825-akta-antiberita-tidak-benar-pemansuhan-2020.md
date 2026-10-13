@@ -7,7 +7,7 @@ language: ms
 last_amended: 2020-01-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/757236_BM/Akta%20825%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA ANTIBERITA TIDAK BENAR (PEMANSUHAN) 2020

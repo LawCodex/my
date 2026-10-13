@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-10-14
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2422047_BI/Jewellers%20%28Licensing%29%20Act%201917%20Act%20857.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # JEWELLERS (LICENSING) ACT 1917

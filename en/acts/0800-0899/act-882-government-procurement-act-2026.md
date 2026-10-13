@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-05-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3522709_BI/Act%20882%20-%20GOVERNMENT%20PROCUREMENT%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # GOVERNMENT PROCUREMENT ACT 2026

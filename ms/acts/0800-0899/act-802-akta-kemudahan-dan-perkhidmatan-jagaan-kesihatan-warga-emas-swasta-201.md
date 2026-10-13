@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-03-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBM_20180329_WJW0101784BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEMUDAHAN DAN PERKHIDMATAN JAGAAN KESIHATAN WARGA EMAS SWASTA 2018

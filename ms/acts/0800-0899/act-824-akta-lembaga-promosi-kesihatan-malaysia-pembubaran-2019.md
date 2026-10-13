@@ -7,7 +7,7 @@ language: ms
 last_amended: 2019-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20191231_824_BM_Akta%20824.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LEMBAGA PROMOSI KESIHATAN MALAYSIA (PEMBUBARAN) 2019

@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20191231_822_BI_Act%20822.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # NATIONAL ANTI-FINANCIAL CRIME CENTRE ACT 2019

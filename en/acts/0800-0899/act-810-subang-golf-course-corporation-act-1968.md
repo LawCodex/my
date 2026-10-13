@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-11-12
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20181112_810_BI_Warta%20-%20Subang%20Golf%20Course%20Corporation%20Act%201968%20%5BAct%20810%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SUBANG GOLF COURSE CORPORATION ACT 1968

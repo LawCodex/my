@@ -7,7 +7,7 @@ language: en
 last_amended: 2020-02-10
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/758002_BI/Act%20826%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # FOOD DONORS PROTECTION ACT 2020

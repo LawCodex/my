@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-06-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3552389_BI/RECORDS%20%28DISPOSAL%29%20%28SARAWAK%29%20ACT%201955%20%28Revised-2026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # RECORDS (DISPOSAL) (SARAWAK) ACT 1955

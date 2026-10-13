@@ -7,7 +7,7 @@ language: ms
 last_amended: 2026-09-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3696948_BM/AKTA%20KUMPULAN%20WANG%20AMANAH%20NEGARA%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KUMPULAN WANG AMANAH NEGARA 2026

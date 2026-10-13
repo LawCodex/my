@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-11-24
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20798-Local%20Authorities.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # LOCAL AUTHORITIES (CONDITIONS OF SERVICE) ACT 1964

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2430978_BM/Akta%20858.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PENGISYTIHARAN SUATU KAWASAN DALAM DAERAH BINTULU MENJADI SUATU PORT PERSEKUTUAN (PEMANSUHAN) 2024

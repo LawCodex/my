@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-10-23
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_820_BI_WJW014497%20The%20Superior%20of%20the%20Institute%20of%20the%20Franciscan%20Missionaries%20o....pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE SUPERIOR OF THE INSTITUTE OF THE FRANCISCAN MISSIONARIES OF MARY (INCORPORATION) ACT 1957

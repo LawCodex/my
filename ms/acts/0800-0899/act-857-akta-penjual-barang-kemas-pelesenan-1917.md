@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-10-14
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/3293403_BM/AKTA%20857%20%28PDF%29%2013082026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PENJUAL BARANG KEMAS (PELESENAN) 1917

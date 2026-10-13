@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-02-20
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2687068_BI/Act%20864%20-%20DATA%20SHARING%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # DATA SHARING ACT 2025

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-06-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBM_20180626_AktaPergigianBM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERGIGIAN 2018

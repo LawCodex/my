@@ -7,7 +7,7 @@ language: ms
 last_amended: 2026-01-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3340871_BM/Akta%20877.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA INSOLVENSI RENTAS SEMPADAN 2026

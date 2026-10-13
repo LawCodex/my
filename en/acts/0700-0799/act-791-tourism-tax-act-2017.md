@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-01-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2039295_BI/ACT%20791%20as%20at%201%20January%202024%20%20%28Final%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # TOURISM TAX ACT 2017

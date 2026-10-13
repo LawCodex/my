@@ -7,7 +7,7 @@ language: en
 last_amended: 2022-01-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1720930_BI/Act%20829%20-Muktamad%20.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # TEMPORARY MEASURES FOR REDUCING THE IMPACT OF CORONAVIRUS DISEASE 2019 (COVID-19) ACT 2020

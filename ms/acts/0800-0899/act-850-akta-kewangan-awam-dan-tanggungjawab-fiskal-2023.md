@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-12-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1946989_BM/WJW23%EF%80%A21340%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN AWAM DAN TANGGUNGJAWAB FISKAL 2023

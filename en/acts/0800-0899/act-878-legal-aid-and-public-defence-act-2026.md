@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-02-13
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3356869_BI/Act%20878-LEGAL%20AID%20AND%20PUBLIC%20DEFENCE%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # LEGAL AID AND PUBLIC DEFENCE ACT 2026

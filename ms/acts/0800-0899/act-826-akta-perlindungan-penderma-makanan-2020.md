@@ -7,7 +7,7 @@ language: ms
 last_amended: 2020-02-10
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/758002_BM/Akta%20826%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERLINDUNGAN PENDERMA MAKANAN 2020

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-12-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/813_BM/AKTA%20801.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN (NO. 2) 2017

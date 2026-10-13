@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3276537_BM/Akta%20874%20-%20AKTA%20KEWANGAN%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN 2025

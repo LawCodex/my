@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-12-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1946988_BM/WJW23%EF%80%A21341%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN (NO. 2) 2023

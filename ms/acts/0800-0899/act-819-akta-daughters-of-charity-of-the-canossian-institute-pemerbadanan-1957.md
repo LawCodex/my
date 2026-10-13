@@ -7,7 +7,7 @@ language: ms
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1745041_BM/Terjemahan%20Akta%20819.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA DAUGHTERS OF CHARITY OF THE CANOSSIAN INSTITUTE (PEMERBADANAN) 1957

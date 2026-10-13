@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-02-22
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1785296_BI/Act%20843%20warta%202023.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PRESERVATION OF PUBLIC SECURITY (SABAH) ACT 1962

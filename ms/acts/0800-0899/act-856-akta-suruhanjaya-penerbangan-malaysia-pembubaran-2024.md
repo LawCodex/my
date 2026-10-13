@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-09-25
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2368185_BM/Akta%20856.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA SURUHANJAYA PENERBANGAN MALAYSIA (PEMBUBARAN) 2024

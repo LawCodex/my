@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-01-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3439682_BI/Act%20806%20%28Online%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SALES TAX ACT 2018

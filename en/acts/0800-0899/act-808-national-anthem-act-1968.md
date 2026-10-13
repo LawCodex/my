@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-11-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20181101_808_BI_National%20Anthem%20Act%201968%20Act%20808.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # NATIONAL ANTHEM ACT 1968

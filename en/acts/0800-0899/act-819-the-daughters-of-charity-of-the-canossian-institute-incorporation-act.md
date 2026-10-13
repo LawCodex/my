@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_819_BI_WJW014496%20The%20Daughters%20of%20Charity%20of%20the%20Canossian%20Institute%20%28Incorpora....pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE DAUGHTERS OF CHARITY OF THE CANOSSIAN INSTITUTE (INCORPORATION) ACT 1957

@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-11-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2509365_BI/Energy%20Efficiency%20and%20Conservation%20Act%202024%20-%20Act%20861.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # ENERGY EFFICIENCY AND CONSERVATION ACT 2024

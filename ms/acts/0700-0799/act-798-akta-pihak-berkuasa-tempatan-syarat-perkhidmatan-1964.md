@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-11-24
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1805007_BM/AKTA%20PIHAK%20BERKUASA%20TEMPATAN%20%28SYARAT%20PERKHIDMATAN%29%201964%20%5BAKTA%20798%5D%20.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PIHAK BERKUASA TEMPATAN (SYARAT PERKHIDMATAN) 1964

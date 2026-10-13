@@ -7,7 +7,7 @@ language: en
 last_amended: 2022-03-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1725650_BI/Act%20835.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # FACTORIES AND MACHINERY (REPEAL) ACT 2022

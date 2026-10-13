@@ -15,6 +15,7 @@ import re
 import sys
 import time
 import urllib.parse
+from concurrent.futures import ThreadPoolExecutor
 
 import requests
 from pypdf import PdfReader
@@ -33,7 +34,8 @@ def get(url, **kw):
     for i in range(6):
         try:
             r = S.get(url, timeout=300, **kw)
-            if r.status_code == 404:
+            if r.status_code == 404 or (r.status_code >= 500 and i >= 1):
+                time.sleep(DELAY)
                 return r
             r.raise_for_status()
             time.sleep(DELAY)
@@ -42,7 +44,7 @@ def get(url, **kw):
             w = 5 * 2 ** i
             print(f"  ! {url}: {e!r}; retry in {w}s", flush=True)
             time.sleep(w)
-    raise RuntimeError(url)
+    return None
 
 
 def parse_list(pdf_path):
@@ -82,22 +84,30 @@ def main():
     acts.insert(0, {"act": "FC", "date": None, "pdf": cons})
     json.dump(acts, open(os.path.join(RAW, "acts.json"), "w"), indent=1)
     print(len(acts), "entries", flush=True)
-    for n, a in enumerate(acts):
+    tasks = []
+    for a in acts:
         for lang, url in a["pdf"].items():
             d = os.path.join(RAW, "pdf", lang)
             os.makedirs(d, exist_ok=True)
             f = os.path.join(d, re.sub(r"[^A-Za-z0-9]+", "_", a["act"]) + ".pdf")
-            if os.path.exists(f):
-                continue
-            u = url if "%" in url else urllib.parse.quote(url, safe=":/?&=%")
-            r = get(u)
-            if r.status_code != 200 or not r.content.startswith(b"%PDF"):
-                print(f"  FAIL {a['act']} {lang} {r.status_code}", flush=True)
-                continue
-            open(f + ".part", "wb").write(r.content)
-            os.replace(f + ".part", f)
-        if n % 50 == 0:
-            print(f"  {n}/{len(acts)} act {a['act']}", flush=True)
+            if not os.path.exists(f):
+                tasks.append((a["act"], lang, url, f))
+    print(len(tasks), "PDFs to download", flush=True)
+
+    def one(t):
+        act, lang, url, f = t
+        u = url if "%" in url else urllib.parse.quote(url, safe=":/?&=%")
+        r = get(u)
+        if r is None or r.status_code != 200 or not r.content.startswith(b"%PDF"):
+            print(f"  FAIL {act} {lang} {getattr(r, 'status_code', None)}", flush=True)
+            return
+        open(f + ".part", "wb").write(r.content)
+        os.replace(f + ".part", f)
+    # the server is slow (~20 s per PDF): use 3 parallel connections (LawCodex limit is 4)
+    with ThreadPoolExecutor(3) as ex:
+        for n, _ in enumerate(ex.map(one, tasks)):
+            if n % 50 == 0:
+                print(f"  {n}/{len(tasks)}", flush=True)
 
 
 if __name__ == "__main__":

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3131137_BM/AKTA%20FI%20%28FERI%20PENGKALAN%20KUBOR%29%20%28PENGESAHAN%29%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA FI (FERI PENGKALAN KUBOR) (PENGESAHAN) 2025

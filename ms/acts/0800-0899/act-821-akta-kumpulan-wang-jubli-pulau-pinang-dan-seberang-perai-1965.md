@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-10-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1805026_BM/Akta%20821.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KUMPULAN WANG JUBLI PULAU PINANG DAN SEBERANG PERAI 1965

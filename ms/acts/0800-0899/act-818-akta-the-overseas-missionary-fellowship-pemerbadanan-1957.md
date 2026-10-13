@@ -7,7 +7,7 @@ language: ms
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1719870_BM/Akta%20818.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA THE OVERSEAS MISSIONARY FELLOWSHIP (PEMERBADANAN) 1957

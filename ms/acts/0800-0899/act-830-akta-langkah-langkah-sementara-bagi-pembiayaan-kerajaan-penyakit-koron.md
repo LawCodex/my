@@ -7,7 +7,7 @@ language: ms
 last_amended: 2021-12-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1715588_BM/Akta%20830%20DRAF%20MUKTAMAD%2001122021.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LANGKAH-LANGKAH SEMENTARA BAGI PEMBIAYAAN KERAJAAN (PENYAKIT KORONAVIRUS 2019 (COVID-19)) 2020

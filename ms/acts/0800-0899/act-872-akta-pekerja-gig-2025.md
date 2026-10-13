@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3272166_BM/Akta%20872%20-%20AKTA%20PEKERJA%20GIG%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEKERJA GIG 2025

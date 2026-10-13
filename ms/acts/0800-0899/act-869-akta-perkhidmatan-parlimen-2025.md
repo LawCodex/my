@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-07-18
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2969226_BM/Akta%20869-%20AKTA%20PERKHIDMATAN%20PARLIMEN%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERKHIDMATAN PARLIMEN 2025

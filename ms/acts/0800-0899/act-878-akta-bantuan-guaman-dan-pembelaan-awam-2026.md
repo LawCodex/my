@@ -7,7 +7,7 @@ language: ms
 last_amended: 2026-02-13
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3356869_BM/Akta%20878%20-%20AKTA%20BANTUAN%20GUAMAN%20DAN%20PEMBELAAN%20AWAM%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA BANTUAN GUAMAN DAN PEMBELAAN AWAM 2026

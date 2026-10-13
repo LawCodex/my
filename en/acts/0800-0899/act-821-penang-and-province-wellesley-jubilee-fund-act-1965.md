@@ -7,7 +7,7 @@ language: en
 last_amended: 2023-10-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_821_BI_WJW014498%20Penang%20and%20Province%20Wallesley%20Jubilee%20Fund%20Act%201965%20%5BAct%20821%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PENANG AND PROVINCE WELLESLEY JUBILEE FUND ACT 1965

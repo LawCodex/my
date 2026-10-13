@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3276538_BM/Akta%20875%20-%20AKTA%20LANGKAH-LANGKAH%20BAGI%20PEMUNGUTAN%2C%20PENTADBIRAN%20DAN%20PENGUATKUASAAN%20CUKAI%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LANGKAH-LANGKAH BAGI PEMUNGUTAN, PENTADBIRAN DAN PENGUATKUASAAN CUKAI 2025

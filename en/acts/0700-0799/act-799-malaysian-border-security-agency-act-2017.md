@@ -7,7 +7,7 @@ language: en
 last_amended: 2017-11-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20171130_799BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # MALAYSIAN BORDER SECURITY AGENCY ACT 2017

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2017-11-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Akta%20796%20-%20Akta%20Kerja%20%28Sekatan%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KERJA (SEKATAN) 1968

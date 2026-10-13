@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-10-17
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2430798_BM/Akta%20859.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LEMBAGA PELABUHAN BINTULU (PEMBUBARAN) 2024

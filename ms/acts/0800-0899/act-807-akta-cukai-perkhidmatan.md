@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-01-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3465678_BM/Akta%20807%20%28Dalam%20talian%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA CUKAI PERKHIDMATAN

@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_817_BI_817%20ACT.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE LADY SUPERIOR OF THE SOCIETY OF SAINT MAUR (INCORPORATION) ACT 1955

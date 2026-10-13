@@ -7,7 +7,7 @@ language: en
 last_amended: 2022-11-07
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1746994_BI/Act%20841.BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PENSIONS ACT 1951

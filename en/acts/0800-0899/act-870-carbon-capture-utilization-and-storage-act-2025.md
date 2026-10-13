@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-08-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2995040_BI/Act%20870%20CARBON%20CAPTURE%2C%20UTILIZATION%20AND%20STORAGE%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CARBON CAPTURE, UTILIZATION AND STORAGE ACT 2025

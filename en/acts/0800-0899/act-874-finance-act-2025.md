@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3276537_BI/Act%20874%20-%20FINANCE%20ACT%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # FINANCE ACT 2025

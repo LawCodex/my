@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592590_BI/Act%20863.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # MEASURES FOR THE COLLECTION, ADMINISTRATION AND ENFORCEMENT OF TAX ACT 2024

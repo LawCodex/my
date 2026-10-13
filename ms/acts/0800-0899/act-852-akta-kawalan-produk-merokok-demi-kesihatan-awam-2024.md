@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-02-02
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1998006_BM/WJW240100%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KAWALAN PRODUK MEROKOK DEMI KESIHATAN AWAM 2024

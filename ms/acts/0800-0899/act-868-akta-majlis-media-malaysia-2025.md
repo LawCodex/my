@@ -7,7 +7,7 @@ language: ms
 last_amended: 2025-06-06
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2899250_BM/Akta%20868%20-%20AKTA%20MAJLIS%20MEDIA%20MALAYSIA%202025.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA MAJLIS MEDIA MALAYSIA 2025

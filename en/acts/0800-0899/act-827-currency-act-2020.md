@@ -7,7 +7,7 @@ language: en
 last_amended: 2020-02-28
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/759540_BI/WJW014846%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CURRENCY ACT 2020

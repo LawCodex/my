@@ -7,7 +7,7 @@ language: ms
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/1745042_BM/PDF-AKTA%20817-%20AKTA%20THE%20LADY%20SUPERIOR%20OF%20THE%20SOCIETY%20OF%20SAINT%20MAUR%20%28PEMERBADANAN%29%201955.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA THE LADY SUPERIOR OF THE SOCIETY OF SAINT MAUR (PEMERBADANAN) 1955

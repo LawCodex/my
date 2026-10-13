@@ -7,7 +7,7 @@ language: ms
 last_amended: 2019-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20191231_822_BM_Akta%20822.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PUSAT PENCEGAHAN JENAYAH KEWANGAN NASIONAL 2019

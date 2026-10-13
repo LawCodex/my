@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-06-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1826844_BM/WJW23%EF%80%A20560%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA SEMAKAN HUKUMAN MATI DAN PEMENJARAAN SEPANJANG HAYAT (BIDANG KUASA SEMENTARA MAHKAMAH PERSEKUTUAN) 2023

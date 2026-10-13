@@ -6,7 +6,7 @@ jurisdiction: my
 language: en
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2630992_BI/REPRINT%202025%20-%20BI%20WJW25%EF%80%A20908%20Teks%20B5.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # Federal Constitution

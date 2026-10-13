@@ -7,7 +7,7 @@ language: en
 last_amended: 2020-10-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20201015_828_BI_WJW015175%20National%20Land%20Code%20Act%20828%20%28Pewartaan%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # NATIONAL LAND CODE

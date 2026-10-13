@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-11-12
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/20181112_810_BM_Warta%20-%20Akta%20Perbadanan%20Padang%20Golf%20Subang%201968%20%5BAkta%20810%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PERBADANAN PADANG GOLF SUBANG 1968

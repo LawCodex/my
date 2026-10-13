@@ -7,7 +7,7 @@ language: ms
 last_amended: 2026-05-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3522709_BM/Akta%20882%20-%20AKTA%20PEROLEHAN%20KERAJAAN%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEROLEHAN KERAJAAN 2026

@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-06-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3563475_BI/Act%20884%20-%20JOHOR%20BAHRU-SINGAPORE%20RAPID%20TRANSIT%20SYSTEM%20LINK%20ACT%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # JOHOR BAHRU-SINGAPORE RAPID TRANSIT SYSTEM LINK ACT 2026

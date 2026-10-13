@@ -7,7 +7,7 @@ language: ms
 last_amended: 2020-02-28
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/759540_BM/WJW014846%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA MATA WANG 2020

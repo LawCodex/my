@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-01-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3465678_BI/Act%20807%20%28Online%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SERVICE TAX ACT 2018

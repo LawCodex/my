@@ -7,7 +7,7 @@ language: ms
 last_amended: 2022-09-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1741727_BM/AKTA%20837.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA AGENSI KAWALAN SEMPADAN MALAYSIA (PEMBUBARAN) 2022

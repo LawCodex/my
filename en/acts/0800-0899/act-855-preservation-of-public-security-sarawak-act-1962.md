@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-07-29
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2241197_BI/Act%20855-%20Preservation%20of%20Public%20Security%20%28Sarawak%29%20Act%201962%20%28BI%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PRESERVATION OF PUBLIC SECURITY (SARAWAK) ACT 1962

@@ -7,7 +7,7 @@ language: ms
 last_amended: 2022-03-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1726100_BM/Akta%20836.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PETUNJUK GEOGRAFI 2022

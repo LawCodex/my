@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-01-30
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3340871_BI/Act%20877.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CROSS-BORDER INSOLVENCY ACT 2026

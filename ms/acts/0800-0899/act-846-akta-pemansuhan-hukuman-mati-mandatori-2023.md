@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-06-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1826840_BM/Akta%20846%20BM.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEMANSUHAN HUKUMAN MATI MANDATORI 2023

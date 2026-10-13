@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-12-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2592590_BM/Akta%20863.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LANGKAH-LANGKAH BAGI PEMUNGUTAN, PENTADBIRAN DAN PENGUATKUASAAN CUKAI 2024

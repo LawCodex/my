@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-11-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/20181101_808_BM_Akta%20Lagu%20Kebangsaan%201968%20Akta%20808.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA LAGU KEBANGSAAN 1968

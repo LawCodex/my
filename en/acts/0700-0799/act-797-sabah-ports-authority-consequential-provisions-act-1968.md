@@ -7,7 +7,7 @@ language: en
 last_amended: 2017-11-15
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20797_Sabah%20Ports.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SABAH PORTS AUTHORITY (CONSEQUENTIAL PROVISIONS) ACT 1968

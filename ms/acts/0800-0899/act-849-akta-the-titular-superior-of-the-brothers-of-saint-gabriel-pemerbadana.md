@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-10-16
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/terjemahan/3134402_BM/AKTA%20849%20%28Terjemahan%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA THE TITULAR SUPERIOR OF THE BROTHERS OF SAINT GABRIEL (PEMERBADANAN) 1957

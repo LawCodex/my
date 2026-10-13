@@ -7,7 +7,7 @@ language: en
 last_amended: 2025-05-14
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2864054_BI/Act%20865%20CO-OPERATIVE%20INSTITUTE%20%28INCORPORATION%29%20ACT%201968.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CO-OPERATIVE INSTITUTE (INCORPORATION) ACT 1968

@@ -7,7 +7,7 @@ language: en
 last_amended: 2022-10-18
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1745930_BI/ACT%20839.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # INDEPENDENT POLICE CONDUCT COMMISSION ACT 2022

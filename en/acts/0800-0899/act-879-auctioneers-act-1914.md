@@ -7,7 +7,7 @@ language: en
 last_amended: 2026-03-25
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3424868_BI/Act%20879%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AUCTIONEERS ACT 1914

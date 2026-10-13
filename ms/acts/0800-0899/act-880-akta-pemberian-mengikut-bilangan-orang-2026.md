@@ -7,7 +7,7 @@ language: ms
 last_amended: 2026-03-31
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3435539_BM/Akta%20880%20-%20AKTA%20PEMBERIAN%20MENGIKUT%20BILANGAN%20ORANG%202026.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA PEMBERIAN MENGIKUT BILANGAN ORANG 2026

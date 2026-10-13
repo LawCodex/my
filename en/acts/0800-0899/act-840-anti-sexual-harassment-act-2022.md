@@ -7,7 +7,7 @@ language: en
 last_amended: 2022-10-18
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1745931_BI/WJW22%EF%80%A20000%20BI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # ANTI-SEXUAL HARASSMENT ACT 2022

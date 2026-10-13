@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-05-24
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2138116_BI/Act%20853.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # JURISDICTIONAL IMMUNITIES OF FOREIGN STATES ACT 2024

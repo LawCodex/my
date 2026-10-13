@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-07-28
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841200_BM/Akta%20848.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA FI (JABATAN PENYIARAN MALAYSIA) (PENGESAHAN) 2023

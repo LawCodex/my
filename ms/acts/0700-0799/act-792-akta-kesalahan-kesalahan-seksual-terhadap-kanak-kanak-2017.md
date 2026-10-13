@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-07-11
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1841831_BM/AKTA%20792%20%28MUKTAMAD%29%20SEBAGAIMANA%2011%20JULAI%202023.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KESALAHAN-KESALAHAN SEKSUAL TERHADAP KANAK-KANAK 2017

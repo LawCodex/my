@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-06-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2177706_BI/Act%20854.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # CYBER SECURITY ACT 2024

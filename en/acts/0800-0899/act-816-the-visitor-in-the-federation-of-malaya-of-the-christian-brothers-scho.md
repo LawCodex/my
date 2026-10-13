@@ -7,7 +7,7 @@ language: en
 last_amended: 2019-12-27
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20191227_816_BI_act%20816.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # THE VISITOR IN THE FEDERATION OF MALAYA OF THE CHRISTIAN BROTHERS’ SCHOOLS (INCORPORATION) ACT 1954

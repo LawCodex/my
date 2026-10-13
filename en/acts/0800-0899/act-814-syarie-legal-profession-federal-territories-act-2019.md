@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-10-05
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3242711_BI/Act%20814%20%28online%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # SYARIE LEGAL PROFESSION (FEDERAL TERRITORIES) ACT 2019

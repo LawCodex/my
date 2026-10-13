@@ -7,7 +7,7 @@ language: en
 last_amended: 2017-10-02
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20793.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # PADI CULTIVATORS (CONTROL OF RENT AND SECURITY OF TENURE) ACT 1967

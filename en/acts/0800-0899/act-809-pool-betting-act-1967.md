@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-11-12
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/20181112_809_BI_Warta%20-%20Pool%20Betting%20Act%201967%20%5BAct%20809%5D.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # POOL BETTING ACT 1967

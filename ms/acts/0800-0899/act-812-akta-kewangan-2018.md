@@ -7,7 +7,7 @@ language: ms
 last_amended: 2023-06-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822716_BM/Akta%20812%20-%20Muktamad%20%281.6.2023%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KEWANGAN 2018

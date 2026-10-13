@@ -7,7 +7,7 @@ language: ms
 last_amended: 2018-08-28
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/20180828_805_BM_Akta%20805%20%28BM%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA CUKAI BARANG DAN PERKHIDMATAN (PEMANSUHAN) 2018

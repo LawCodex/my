@@ -7,7 +7,7 @@ language: ms
 last_amended: 2024-11-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2509365_BM/Akta%20Kecekapan%20dan%20Konservasi%20Tenaga%202024-%20Akta%20861.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # AKTA KECEKAPAN DAN KONSERVASI TENAGA 2024

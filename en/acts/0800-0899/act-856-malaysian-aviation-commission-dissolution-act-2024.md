@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-09-25
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2368185_BI/Act%20856.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # MALAYSIAN AVIATION COMMISSION (DISSOLUTION) ACT 2024

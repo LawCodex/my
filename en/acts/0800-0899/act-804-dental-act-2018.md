@@ -7,7 +7,7 @@ language: en
 last_amended: 2018-06-26
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/aktaBI_20180626_AktaPergigianBI.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # DENTAL ACT 2018

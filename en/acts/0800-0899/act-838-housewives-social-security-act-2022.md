@@ -7,7 +7,7 @@ language: en
 last_amended: 2024-06-01
 status: in_force
 source: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/3285843_BI/Act%20838%20%28Online%202026%29.pdf"
-retrieved: 2026-10-12
+retrieved: 2026-10-13
 ---
 
 # HOUSEWIVES’ SOCIAL SECURITY ACT 2022
