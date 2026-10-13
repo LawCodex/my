@@ -1,0 +1,145 @@
+---
+title: "MARRIED WOMEN ACT 1957"
+identifier: "Act 450"
+type: act
+jurisdiction: my
+language: en
+last_amended: 2006-01-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20450.pdf"
+retrieved: 2026-10-13
+---
+
+# MARRIED WOMEN ACT 1957
+
+An Act relating to married women.
+
+## 1. [15 August 1957] Short title and application
+
+(1) This Act may be cited as the Married Women Act 1957.
+
+(2) This Act shall apply to the States of Peninsular Malaysia only.
+
+## 2. Interpretation
+
+(1) In this Act—
+
+“married woman” includes any woman married in accordance with the rites and ceremonies required by her religion, manners or customs;
+
+“contract” includes the acceptance of any trust or of the office of executrix or administratrix;
+
+“property” includes a thing in action;
+
+“Peninsular Malaysia” has the meaning assigned thereto in section 3 of the Interpretation Acts 1948 and 1967 [Act 388], and includes the Federal Territory of Kuala Lumpur.
+
+(2) The provisions of this Act as to the liabilities of married women shall extend to all liabilities by reason of any breach of trust or devastavit committed by any married woman being a trustee or executrix or administratrix either before or after her marriage, and her husband shall not be subject to such liabilities unless he has acted or intermeddled in the trust or administration.
+
+## 3. Application of Act to Muslims to be subject to Islamic law
+
+This Act shall have effect in the States of Johore, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor, Terengganu and the Federal Territory of Kuala Lumpur in relation to Muslim married women and their property, rights and obligations subject to the Islamic law and the customs of the Malays governing the relations between husband and wife so far as the same may be applicable, and in the States of Malacca and Penang subject to the Islamic law of the States in all cases to which such last mentioned Islamic law extends.
+
+## 4. Capacity of married women
+
+Subject to this Act, a married woman shall—
+
+(a) be capable of acquiring, holding and disposing of, any property;
+
+(b) be capable of rendering herself, and being rendered, liable in respect of any tort, contract, debt or obligation;
+
+(c) be capable of suing and being sued in her own name either in tort or in contract or otherwise and shall be entitled to all remedies and redress for all purposes; and
+
+(d) be subject to the law relating to bankruptcy and to the enforcement of judgments and orders, in all respects as if she were a feme sole.
+
+## 4A. Capacity of husband and wife to sue each other for personal injuries
+
+A husband or a wife shall be entitled to sue each other in tort for damages in respect of injuries to his or her person, as the case may be, in the like manner as any other two separate individuals.
+
+## 5. Property of married women
+
+(1) Subject to this Act all property which—
+
+(a) immediately before the date of the coming into force of this Act was the property (including the separate property) of a married woman or held for her separate use in equity; or
+
+(b) belongs at the time of her marriage to a woman married after the date of the coming into force of this Act; or
+
+(c) after the date of the coming into force of this Act is acquired by or devolves upon a married woman, shall belong to her in all respects as if she were a feme sole and may be disposed of accordingly: Provided that nothing in this subsection shall—
+
+(a) be construed as affecting adversely the right of any married woman to any property which she had immediately before the date of the coming into force of this Act; or
+
+(b) interfere with or render inoperative any valid restriction upon anticipation or alienation attached to the enjoyment of any property by virtue of any provision contained in any written law in force immediately before the date of the coming into force of this Act, or in any instrument executed before such date.
+
+(2) Any instrument executed on or after the date of the coming into force of this Act, shall, in so far as it purports to attach to the enjoyment of any property by a woman any restriction upon anticipation or alienation which could not have been attached to the enjoyment of that property by a man, be void.
+
+(3) For the purposes of this section relating to restrictions upon anticipation or alienation—
+
+(a) an instrument attaching such a restriction as aforesaid executed on or after the date of the coming into force of this Act, in pursuance of an obligation imposed before that date to attach such a restriction shall be deemed to have been executed before such date;
+
+(b) a provision contained in an instrument made in exercise of a special power of appointment shall be deemed to be contained in that instrument only and not in the instrument by which the power was created; and
+
+(c) the will of any testator who dies after the date of the coming into force of this Act, shall (notwithstanding the actual date of the execution thereof) be deemed to have been executed after such date.
+
+## 6. Abolition of husband’s liability for wife’s torts and ante-nuptial contracts, debts and obligations
+
+Subject to this Act, the husband of a married woman shall not, by reason only of his being husband, be liable—
+
+(a) in respect of any tort committed by her whether before or after the marriage, or in respect of any contract entered into, or debt or obligation incurred, by her before the marriage; or
+
+(b) to be sued, or made a party to any legal proceeding brought, in respect of any such tort, contract, debt or obligation.
+
+## 7.
+
+(Deleted by Ord. 20 of 1959).
+
+## 8. Gifts by husband to wife
+
+Nothing in this Act shall give validity, as against creditors of the husband, to any gift by a husband to his wife of any property which, after such gift, continues to be in the order and disposition or reputed ownership of the husband, or to any deposit or other investment of moneys of the husband made by or in the name of his wife in fraud of his creditors; but any moneys so deposited or invested may be followed as if they belong to the husband.
+
+## 9. Remedies of married women for protection and security of separate property
+
+(1) Every married woman shall have in her own name against her husband, the same remedies and redress for the protection and security of her property as if such property belonged to her as a feme sole.
+
+(2) A husband or a wife shall be entitled to sue each other in tort for the protection or security of his or her property, as the case may be.
+
+(3) In any criminal charge or in any other proceeding relating to the property of a married woman it shall be sufficient to allege such property to be her property.
+
+(4) No criminal proceeding shall be taken against a husband or wife while they are living together as to or concerning any property claimed by her or him respectively nor while they are living apart as to or concerning any act done by the husband or wife while they were living together concerning property claimed by the wife or husband respectively unless such property has been wrongly taken by the husband or wife when leaving or deserting or about to leave or desert the wife or husband respectively.
+
+(5) In any action or proceedings by a married woman or by a next friend on her behalf, the Court before which such action or proceedings is pending shall have jurisdiction by judgment or order to order payment of the costs of the opposite party out of property which is subject to a restraint on anticipation, and may enforce such payment by the appointment of a receiver and the sale of the property or otherwise as is just.
+
+## 10. Wife’s ante-nuptial debts and liabilities
+
+(1) A woman after her marriage shall continue to be liable for all debts contracted and all contracts entered into or wrongs committed by her before her marriage, including any sums for which she is liable as a contributory, either before or after she has been placed on the list of contributories under and by virtue of any written law relating to joint stock companies.
+
+(2) Such woman may be sued for any such debt and for any liability in damages or otherwise under any such contract or in respect of any such wrong.
+
+## 11. Questions between husband and wife as to property to be decided in a summary way
+
+(1) In any question between husband and wife as to the title to or possession of property, either party may apply by summons or otherwise in a summary way to any Judge of the High Court or where the value of the property falls within the civil jurisdiction of a Sessions Court to the Sessions Court Judge, and the Judge or Sessions Court Judge may make such order with respect to the property in dispute and as to the costs of and consequent on the application as he thinks fit, or may direct such application to stand over, and any inquiry touching the matters in question to be made in such manner as he thinks fit.
+
+(2) Any order made under this section shall be subject to appeal in the same way as an order made by the same Judge or Sessions Court Judge as the case may be in an action pending in the High Court or Sessions Court respectively.
+
+(3) The Judge or Sessions Court Judge if either party so requires, may hear any such application in his Chambers.
+
+## 12. Married woman as an executrix or trustee
+
+A married woman who is an executrix or administratrix, alone or jointly with any other person, of the estate of any deceased person, or a trustee alone or jointly as aforesaid of property subject to any trust, may sue or be sued, and may transfer or join in transferring any movable or immovable property belonging to the estate or trust without her husband as if she were a feme sole.
+
+## 13. Saving of existing settlements and the power to make future settlements
+
+(1) Nothing in this Act other than subsection 5(2) shall interfere with or affect any settlement or agreement for a settlement made or to be made, whether before or after marriage, respecting the property of any married woman.
+
+(2) No restriction against anticipation contained in any settlement or agreement for a settlement of a woman’s own property to which proviso (a) to subsection 5(1) applies shall, if made or entered into by such woman have any validity against debts contracted by her before marriage, and no settlement or agreement for a settlement shall have any greater force or validity against creditors of a woman than a like settlement or agreement for a settlement made or entered into by a man would have against his creditors.
+
+## 14. Legal representative of married woman
+
+For the purposes of this Act, the legal personal representative of any married woman shall, in respect of her estate, have the same rights and liabilities as she would have, and be subject to the same jurisdiction as she would be, if she were living.
+
+## 15. Saving
+
+(1) It is hereby declared that the rights and obligations of a married woman in the States of Johore, Kedah, Kelantan, Negeri Sembilan, Pahang, Perak, Perlis, Selangor, Terengganu and the Federal Territory of Kuala Lumpur were not affected by the Civil Law (Extension) Ordinance 1951 [Ord. No 49 of 1951], or by the repeal of paragraph 10(a) of the Civil Law Enactment 1937, of the Federated Malay States [F.M.S. Enact. No. 3 of 1937] by the Civil Law Act 1956 [Act 67], but that at all times before the commencement of this Act such rights and obligations were in respect of all matters provided for by this Act the same as those of a feme sole.
+
+(2) Subsection (1) has effect in relation to Muslim married women and their property rights and obligations subject to Islamic law and the customs of the Malays governing the relations between husband and wife so far as the same may be applicable.
+
+## 16.
+
+(Omitted).

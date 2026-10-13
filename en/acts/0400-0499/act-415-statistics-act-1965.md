@@ -1,0 +1,81 @@
+---
+title: "STATISTICS ACT 1965"
+identifier: "Act 415"
+type: act
+jurisdiction: my
+language: en
+last_amended: 2006-01-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20415.pdf"
+retrieved: 2026-10-13
+---
+
+# STATISTICS ACT 1965
+
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+
+## 1. Short title and application
+
+(1) This Act may be cited as the Statistics Act 1965.
+
+(2) This Act shall apply throughout Malaysia.
+
+## 2. Department of Statistics
+
+(1) The Bureau of Statistics established by section 3 of the Statistics Ordinance 1949 [Ord. 31 of 1949], shall be known as the Department of Statistics (hereinafter referred to as “the Department”).
+
+(2) The functions of the Department shall be to collect and interpret statistics for the purpose of furnishing information required in the formation or carrying out of Government policy in any field or otherwise required for Government purposes or for meeting the needs of trade, commerce, industry or agriculture (including forestry, fishing and hunting).
+
+(3) Save as hereinafter provided, the Department shall where they consider it in the public interest have power to communicate statistics collected by them or their interpretation of statistics so collected not only to the Government department or person for whom the information was collected but also to other authorities or persons to whom the information or interpretation may be useful.
+
+## 3. Control and management of the Department
+
+(1) The Department shall be under the control and management of the Chief Statistician, assisted by such other officers and servants as the Yang di-Pertuan Agong may deem necessary.
+
+(2) No officer of the Department who is engaged in or connected with the collection, interpretation or publication of statistics under this Act shall except as required by his duty communicate any information which has come into his possession in the course of his said duty as such.
+
+(3) Any officer who contravenes subsection (2) shall on conviction be liable to imprisonment for a term not exceeding two years or to a fine not exceeding five thousand ringgit or to both.
+
+(4) The Chief Statistician shall draw the attention of every officer engaged in or connected with the collection, interpretation or publication of statistics of the provisions of subsections (2) and
+
+(3) before the said officer commences to perform his duty under this Act.
+
+## 4. Safeguards as to the use and communication of information
+
+(1) Except with the prior consent in writing of the person by whom, or of any person (whether as agent or principal) carrying on an undertaking in relation to which, statistics have been collected, no statistics collected by the Department shall be used by them for the purpose of determining any liability of any such person or undertaking to any description of taxation or levy, whether Federal, State or otherwise or be communicated to any Government department or other authority or person, being a department, authority or person likely to use it for that purpose.
+
+(2) In communicating statistics collected by them or the interpretation thereof the Department shall take steps to ensure that the identity of any person or undertaking to whom or to which it relates is not thereby disclosed.
+
+## 5. Notice to require particulars
+
+(1) For the purpose of the Department’s functions under subsection 2(2) the Chief Statistician may by notice in writing require any person carrying on an undertaking in Malaysia (whether as agent or principal) to furnish such particulars relating to the undertaking on such matters and in such form as the Chief Statistician may specify, being particulars within that person’s knowledge or which he is reasonably able to obtain.
+
+(2) The notice under subsection (1) may be served by delivering it to the person to whom it relates at a place where the undertaking in question is being carried or at his residence.
+
+(3) A notice may require the information to be furnished at specific times or within specific intervals.
+
+(4) A notice may require a person who has no knowledge of the particulars required or is unable to obtain the said particulars to furnish to the Chief Statistician the best estimates of the particulars.
+
+(5) The Department shall not require any person to supply information which would disclose any secret process or other trade secret.
+
+(6) In this section “undertaking” means any undertaking carried on by way of trade or business, any profession carried on by an individual, or any activities (whether carried on for profit or not) of a body corporate or an unincorporated body of persons.
+
+## 6. Particulars not related to an undertaking
+
+(1) The Chief Statistician may, in relation to any matter not related to an undertaking (as defined in subsection 5(6)) require any person to furnish such particulars and in such form as the Yang di-Pertuan Agong may approve.
+
+(2) The provisions of section 5 relating to notice and the service thereof shall apply to a requirement under this section as they apply to a requirement under section 5. Penalty 7. Any person who—
+
+(a) fails to comply with the requirements of a notice under section 5 or section 6; or
+
+(b) knowingly or recklessly furnishes or causes to be furnished any false particulars on any matter specified in such notice, shall be liable to a fine not exceeding five hundred ringgit and, in the case of a continuing offence, to a further fine not exceeding five hundred ringgit for each day after conviction during which the offence continues. Rules 8. The Prime Minister may from time to time make rules—
+
+(a) for exempting any person or class of persons from the obligation to furnish information under this Act, either wholly or to such extent as may be prescribed and either unconditionally or subject to such conditions as may be prescribed; and
+
+(b) for prescribing the fees which may be charged for communicating statistics collected by the Department or the interpretation by the Department of statistics so collected and the manner in which such fees may be collected and for exempting any person from the payment of such fees.
+
+## 9. Repeal
+
+(1) The Statistics Ordinance 1949, is hereby repealed.
+
+(2) All information collected by the Bureau of Statistics before the commencement of this Act shall be subject to the same safeguards as respects communication as are provided by this Act as if the said information was collected under this Act.
