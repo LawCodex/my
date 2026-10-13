@@ -1,0 +1,259 @@
+---
+title: "DEBTORS ACT 1957"
+identifier: "Act 256"
+type: act
+jurisdiction: my
+language: en
+last_amended: 2014-06-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20256.pdf"
+retrieved: 2026-10-13
+---
+
+# DEBTORS ACT 1957
+
+## PART I — PRELIMINARY
+
+Section 1. Short title 2. Interpretation
+
+## PART II — EXECUTION IN RESPECT OF JUDGMENT DEBTS
+
+\3. Execution in respect of judgment debts.
+
+## PART III — ARREST, EXAMINATION AND IMPRISONMENT OF JUDGMENT DEBTORS
+
+\4. Judgment debtor summons 5. Power of court to order discharge of debtor 6. Arrest of judgment debtor 7. Interim order for protection of debtor’s property 8. An order for payment by instalments not to be a bar to execution 9. Rules of court may be made as to deposit to be furnished by judgment creditor 10. Arrest or commitment to be dependent on deposit of expenses 11. Expenses to be added to judgment debt 12. Commitment of defaulting trustee, etc. Section 13. Discharge or suspension of order 14. Imprisonment not to operate as satisfaction
+
+## PART IV — ARREST BEFORE JUDGMENT
+
+\15. Where defendant may be required to furnish security for appearance 16. Procedure on application by surety to be discharged 17. Procedure where defendant fails to furnish security or find fresh security 18. Application by defendant
+
+## PART V — ATTACHMENT OF PROPERTY BEFORE JUDGMENT
+
+\19. Seizure of property before judgment 20. Court may release property 21. Order for sale of perishable goods 22. Property liable to execution
+
+## PART VI — DAMAGES FOR IMPROPER ARREST OR ATTACHMENT
+
+\23. Compensation for improper arrest or attachment
+
+## PART VII — REPEAL
+
+\24. Repeal
+
+An Act relating to debtors.
+
+[Peninsular Malaysia—1 April 1958, L.N. 72/1958; Sabah and Sarawak—1 June 1981,
+
+P.U. (B) 302/1981]
+
+## PART I — PRELIMINARY
+
+Short title 1. This Act may be cited as the Debtors Act 1957. Interpretation 2. In this Act, unless the context otherwise requires—
+
+“appropriate officer” means in respect of any court the officer authorized by law to execute any judgment of such court;
+
+“court” means the court in which the original proceedings were commenced; being the High Court, a Sessions Court or a Magistrates’ Court;
+
+“Federal officer” means any officer employed or deemed to be employed by the Government of Malaysia;
+
+“judgment” includes any decree, order or decision for the payment of money;
+
+“Peninsular Malaysia” has the meaning assigned thereto in section 3 of the Interpretation Acts 1948 and 1967 [Act 388], and includes the *Federal Territory. *NOTE—“Federal Territory” refers to the Federal Territories of Kuala Lumpur and Labuan–see
+
+P.U. (A) 220/1985.
+
+“State officer” means any officer employed by a State Government whose conditions of employment do not render him liable for service outside that State;
+
+“the State”, in subsection 6(1), paragraph 15(1)(a), (b) and (c) and paragraph 19(1)(a), means—
+
+(a) Sabah;
+
+(b) Sarawak; or
+
+(c) Peninsular Malaysia, as the case may be, where the court is situated;
+
+## PART II — EXECUTION IN RESPECT OF JUDGMENT DEBTS
+
+### 3. Execution in respect of judgment debts
+
+(1) Subject to and in accordance with any rules of court any sum of money payable under the judgment of a court may be recovered in case of default or failure of payment thereof forthwith or at the time or times, or in the manner thereby directed by execution whether legal or equitable against the property movable or immovable of the party against whom the judgment was obtained: Provided that the following shall not be liable to attachment, seizure or sale in such execution, namely:
+
+(a) the wearing apparel, cooking vessels, beds or bedding of the judgment debtor, his wife and children, and the tools and implements of his trade to the value of two hundred ringgit in all, which to that extent shall be protected from execution;
+
+(b) the tools of artisans or, where the judgment debtor is an agriculturalist, his implements of husbandry and such cattle and seed-grain or produce as may in the opinion of the court be necessary to enable him to earn his livelihood as such;
+
+(c) houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) belonging to an agriculturalist and occupied by him;
+
+(d) books of account;
+
+(e) any pension, gratuity or allowance granted by the Government of Malaysia or the Government of any State or by such other public body as the Yang di-Pertuan Agong may by notification in the Gazette designate;
+
+(f) wages or salary of the judgment debtor: Provided that where such wages or salary exceed two hundred ringgit a month the court may authorize execution to be levied in such manner as may be prescribed by rules of court in respect of such excess or part thereof as the court may think just;
+
+(g) where the judgment debtor is a person liable for the payment of land revenue, any movable property which under any law applicable to him is exempt from sale for the recovery of an arrear of such revenue; and
+
+(h) any share of a judgment debtor in a partnership as to which the judgment debtor is entitled to proceed to obtain a charge under any written law relating to partnerships.
+
+(2) Nothing in this section shall be deemed to exempt houses or other buildings or the materials or sites thereof or the land immediately appurtenant thereto or necessary for their enjoyment from attachment or sale in execution of judgments for the payment of rent of any such house, building, site or land.
+
+## PART III — ARREST, EXAMINATION AND IMPRISONMENT OF JUDGMENT DEBTORS
+
+### 4. Judgment debtor summons
+
+(1) Where the judgment of a court is for the recovery or payment of money whether by instalments or otherwise the party entitled to enforce it (hereinafter called the judgment creditor) may, subject to and in accordance with any rules of court, summon the judgment debtor, or if the judgment debtor is a corporation an officer of that corporation, to be orally examined before the court respecting the judgment debtor’s ability to pay or satisfy the judgment debt, and for the discovery of property applicable to such payment and to the disposal that the judgment debtor has made of such property.
+
+(2) The judgment debtor, or, where the judgment debtor is a corporation, the officer thereof who has been summoned, shall, when called upon, produce all books, papers or documents in his possession or power relating to such property.
+
+(3) The judgment creditor may subpoena as a witness any person whom he considers likely to be able to supply information respecting the judgment debtor’s ability to pay the judgment debt or respecting his property.
+
+(4) Whether the judgment debtor, or, where the judgment debtor is a corporation, the officer thereof, appears or not the judgment creditor and other witnesses may be examined on oath respecting the matters aforesaid.
+
+(5) If the judgment debtor, or, where the judgment debtor is a corporation, the officer thereof having been duly served does not appear, the court may—
+
+(a) order him to be arrested and brought before the court to be examined; or
+
+(b) make an order against the judgment debtor ex-parte.
+
+(6) Upon such examination or non-appearance as aforesaid the court may order the judgment debtor to pay the judgment debt either—
+
+(a) in one sum whether forthwith or within such period as the court may fix; or
+
+(b) by such instalments payable at such times as the court may fix.
+
+(7) If the judgment debtor makes default in payment according to any such order, a notice in the form prescribed by rules of court may be issued, on the request of the judgment creditor, calling upon the judgment debtor to attend before the court at a time therein stated and show cause why he should not be committed to prison for such default.
+
+(8) Any such notice shall be personally served upon the judgment debtor; and if, on the day so named, or on any subsequent day to which the matter may be adjourned, no sufficient cause is shown by the judgment debtor, the court may commit him to the civil prison for a term which may extend to six weeks or until earlier payment of any instalment or instalments or other sum due.
+
+(9) A debtor shall not be committed to prison under this section unless it appears that, since the date of the order directing payment, whether forthwith, or within a specified period or by instalments, he has had sufficient means to comply with the order.
+
+### 5. Power of court to order discharge of debtor
+
+(1) If at any time it appears to the satisfaction of a court that any debtor arrested or confined in prison by order of the court is unable from any cause to pay any sum recovered against him (whether by way of satisfaction of a claim or counterclaim or by way of costs or otherwise), or any instalment thereof, and ought to be discharged, the court may order his discharge upon such terms (including liability to re-arrest if the terms are not complied with) as the court thinks fit.
+
+(2) Where an order of commitment issued by one court has been sent to another court for execution, that other court shall have the same power as the court in which the order of commitment was made of ordering the discharge of the debtor under this section.
+
+### 6. Arrest of judgment debtor
+
+(1) Where a judgment for the payment of money remains wholly or in part unsatisfied, whether a writ of execution has been issued or not, the court may order the debtor to be arrested and brought before the court forthwith for examination in accordance with subsection 4(1), if it appears to the court that there is probable reason for believing, having regard to his conduct, or the state of his affairs, or otherwise, that he is likely to leave the State with a view of avoiding payment of such money or of avoiding examination in respect of his affairs.
+
+(2) If the examination is adjourned, the court may order the debtor to be committed to prison until the adjourned hearing, or until such time as he furnishes security in an amount to be named in the order for his appearance at the adjourned hearing.
+
+(3) In any proceedings under this section the court may exercise all or any of the powers conferred upon it by section 4 subject to subsection (9) of that section.
+
+### 7. Interim order for protection of debtor’s property
+
+The court may, upon an examination under this Part, make any interim order which it may deem expedient for the protection of any property appearing likely to be available for the discharge of the judgment debt.
+
+### 8. An order for payment by instalments not to be a bar to execution
+
+Subject to any rules of court, an order for the payment of instalments of a judgment debt under this Part shall not be a bar to proceedings in execution unless and except to the extent that the court shall so direct. Rules of court may be made as to deposit to be furnished by judgment creditor 9. Rules of court may be made for the following purposes:
+
+(a) for requiring the deposit by the person at whose instance any order for arrest or imprisonment is issued, of a sum of money to provide for—
+
+(i) the expense of bringing the debtor before the court; and
+
+(ii) the subsistence of the debtor while in prison; and
+
+(b) for regulating any matter incidental to such deposit.
+
+### 10. Arrest or commitment to be dependent on deposit of expenses
+
+(1) Where under any rules of court the judgment creditor is required to deposit money to provide for the expense of bringing the debtor before the court, the debtor shall not be arrested until such deposit has been made; and where the judgment creditor may be required to deposit money to provide for the subsistence of the debtor while in prison, the order for committal shall not be executed until such deposit has been made.
+
+(2) Where any further deposit may be required during any period of imprisonment under this Part, the court may, if such deposit is not duly made, order that the debtor be discharged from prison.
+
+### 11. Expenses to be added to judgment debt
+
+Unless in any case the court otherwise orders the costs and expenses of and incidental to the summoning, arrest or imprisonment of any judgment debtor under this Act shall be added to the judgment debt and be recoverable accordingly. Commitment of defaulting trustee, etc.
+
+### 12.
+
+Where the High Court is satisfied that there has been default by a trustee or person acting in a fiduciary capacity in payment into court of any sum in his possession or under his control, the court may commit such trustee or person to prison for a term which may extend to six months: Provided that—
+
+(a) no such committal shall be ordered, if it appears to the court that the trustee or person aforesaid has acted innocently in the matter; and
+
+(b) upon payment of the amount due the prisoner shall be immediately released.
+
+### 13. Discharge or suspension of order
+
+The court may discharge or vary any order made under this Part, or may suspend its operation.
+
+### 14. Imprisonment not to operate as satisfaction
+
+No imprisonment under this Act shall operate to satisfy or extinguish any debt, or deprive any person of any right to issue execution against the property of the debtor.
+
+## PART IV — ARREST BEFORE JUDGMENT
+
+### 15. Where defendant may be required to furnish security for appearance
+
+(1) If at any stage of any action, other than an action for the possession of immovable property, against a defendant who carries on business or ordinarily resides within the jurisdiction, the plaintiff satisfies the court by evidence upon oath that he has a good cause of action against the defendant, and that the defendant, with intent to prejudice the plaintiff, or to avoid any process of the court, or to obstruct or delay the execution of any judgment that may be made against him—
+
+(a) has absconded or left the State;
+
+(b) is about to abscond or leave the State; or
+
+(c) has disposed of, or removed from the State his property or any part thereof, the court may issue an order to arrest the defendant and bring him before the court to show cause why he should not furnish security for his appearance: Provided that the defendant shall not be arrested if he pays to the officer entrusted with the execution of the order any sum specified in the order as sufficient to satisfy the plaintiff’s claim. Such sum shall be held in deposit by the court until the action is disposed of or until further order.
+
+(2) Where the defendant fails to show such cause the court shall order him either to deposit in court money or other property sufficient to answer the claim against him or to furnish security for his appearance at any time when called upon while the action is pending and until satisfaction of any order that may be made against him in the action, or shall make such order as it thinks fit with regard to the sum which may have been paid by the defendant under the proviso to subsection (1).
+
+(3) Every surety for the appearance of a defendant shall bind himself to pay, in default of such appearance, any sum of money, which the defendant may be ordered to pay in the action.
+
+### 16. Procedure on application by surety to be discharged
+
+(1) A surety for the appearance of a defendant may at anytime apply to the court to be discharged from his obligation and on such application the court shall summon the defendant to appear, or may issue an order for his arrest.
+
+(2) On the appearance of a defendant pursuant to any such summons or order, the court shall discharge the surety from his obligation and call upon the defendant to furnish fresh security.
+
+### 17. Procedure where defendant fails to furnish security or find fresh security
+
+Where the defendant fails to comply with any order under section 15 or 16 the court may order that he be detained in prison until the decision of the action: Provided that—
+
+(a) no person shall be detained in prison under this section in any case for a longer period than six weeks; and
+
+(b) no person shall be detained in prison under this section after he has complied with such order.
+
+### 18. Application by defendant
+
+A defendant may, at any time after his arrest, apply to the court to rescind or vary the order made thereunder, or discharge him from custody, and the court may make such order as is just.
+
+## PART V — ATTACHMENT OF PROPERTY BEFORE JUDGMENT
+
+### 19. Seizure of property before judgment
+
+(1) If it is shown to the satisfaction of the court, at any time after the issue of a writ of summons, by evidence on oath, that the plaintiff has a good cause of action against the defendant, and—
+
+(a) that the defendant is absent from the State and that his place of abode cannot be discovered;
+
+(b) that service of a writ of summons cannot without great delay or difficulty be effected; or
+
+(c) that the defendant, with intent to obstruct or delay the execution of any judgment which has been or may be made against him, has removed, or is about to remove, or has concealed, or is concealing, or making away with, or handing over to others, any of his movable or immovable property, the court may order that the property of the defendant, or any part thereof, be forthwith seized or attached by the appropriate officer as a pledge or surety to answer the just demand of the plaintiff, until the trial of the action and satisfaction of any judgment that may be made against the defendant; but such order shall not constitute the plaintiff a secured creditor if the defendant is adjudicated bankrupt: Provided that any property of the defendant or debts due to the defendant if in the custody or under the control of or due from any Government or public officer in his official capacity, shall be seized or attached only with the consent in writing of the Minister of Finance in the case of the Government of Malaysia or a Federal officer, or the Chief Minister in the case of a State Government or State officer.
+
+(2) In the case of immovable property the seizure shall be made in the manner provided by rules of court for the seizure of such property in execution of a judgment.
+
+(3) In case the immovable property is subsequently seized in execution in satisfaction of judgment in the action, any order of court which, pursuant to such seizure is registered in accordance with such rules of court as are referred to in subsection (2) shall have priority as though it had been registered upon the date on which any order under this section pursuant to the seizure of such property under this section was so registered.
+
+### 20. Court may release property
+
+The court may at any time, on reasonable cause being shown and upon such terms, if any, as to security or otherwise as seem just, release the property seized and order any movable property to be returned.
+
+### 21. Order for sale of perishable goods
+
+The court may, at any time pending the trial of the action, order the sale of any property seized under this Part which is of a perishable nature, or which for any other reason it is desirable to sell without delay, and direct the proceeds of such sale to be retained by the appropriate officer or paid into court pending the trial of the action.
+
+### 22. Property liable to execution
+
+Any property so seized, or the proceeds of sale thereof, shall be liable to execution in satisfaction of any judgment in the action against the defendant; but it shall be subject to the prior claims of any judgment creditor, whose judgment was obtained within one year before the seizure thereof under this Part; provided that such judgment creditor has issued execution against the defendant’s property before the making of any order under this Part.
+
+## PART VI — DAMAGES FOR IMPROPER ARREST OR ATTACHMENT
+
+### 23. Compensation for improper arrest or attachment
+
+(1) If at any subsequent stage of an action in which an order for arrest or attachment of property has been made under this Act it appears to the court that such arrest or attachment was applied for on insufficient grounds, or if the plaintiff’s claim is dismissed and it appears to the court that there was no sufficient ground for instituting the action, the court may, on the application of the defendant, award against the plaintiff such amount, not exceeding one thousand ringgit, as it deems reasonable to compensate the defendant for any injury caused to him by the arrest or attachment.
+
+(2) An award under this section shall bar any action for damages, but nothing in this section shall preclude the defendant from maintaining an action for damages instead of applying for an award under subsection (1).
+
+## PART VII — REPEAL
+
+### 24. Repeal
+
+The Debtors Ordinance of the Straits Settlements [S.S. Cap. 48], the Debtors Ordinance 1957 [Sabah Ord. 12 of 1957], of the State of Sabah, and the Debtors Ordinance 1960 [Sarawak Ord. 4 of 1960], of the State of Sarawak, are hereby repealed.

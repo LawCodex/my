@@ -11,11 +11,23 @@ Chambers (AGC), i.e. the consolidated ("as at" date) text of each Act in force:
 
 | Category | English (`en/`) | Malay (`ms/`) |
 |---|---|---|
-| Federal Constitution (`constitution/`) | __FC_EN__ | __FC_MS__ |
-| Principal Acts (`acts/<range>/act-<no>-<title>.md`) | __ACTS_EN__ | __ACTS_MS__ |
-| **Total** | **__TOT_EN__** | **__TOT_MS__** |
+| Federal Constitution (`constitution/`) | 1 | 1 |
+| Principal Acts (`acts/<range>/act-<no>-<title>.md`) | 745 | 626 |
+| **Total** | **746** | **627** |
 
-__GAPS__
+### Gaps
+
+The "Updated" listing has 885 Act entries (Act 1 – Act 886). Of these:
+
+- 45 entries offer no PDF at all;
+- 75 English and 53 Malay PDFs are placeholders for Acts that are **repealed / superseded /
+  ceased to have effect** (the listing still shows them) — skipped;
+- 18 English and some Malay PDFs are image scans without a text layer (e.g. Acts 10, 63, 91, 97,
+  115, 119, 210, 271, 272, 276, 277, 280, 312, 319, 324, 336, 371, 788 in English) — skipped,
+  no OCR; most of the 64 skipped Malay PDFs state "Tiada teks bahasa kebangsaan" (no national
+  language text);
+- 4 PDFs returned HTTP 500 from the portal (Acts 150 and 175 in English, 780 and 781 in Malay).
+
 
 ### Not covered
 

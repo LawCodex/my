@@ -1,0 +1,437 @@
+---
+title: "FISHERMEN’S ASSOCIATIONS ACT 1971"
+identifier: "Act 44"
+type: act
+jurisdiction: my
+language: en
+last_amended: 2011-12-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%2044%20-%20Fishermen%27s%20Associations%20Act%201971.pdf"
+retrieved: 2026-10-13
+---
+
+# FISHERMEN’S ASSOCIATIONS ACT 1971
+
+An Act to establish Fishermen’s Associations in Malaysia and to provide for matters connected with it.
+
+[Throughout Malaysia—4 May 1972,
+
+P.U.(B)172/1972]
+
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+
+## PART I — PRELIMINARY
+
+### 1. Short title, application and commencement
+
+(1) This Act may be cited as the Fishermen’s Associations Act 1971 and shall, subject to subsection (3), apply throughout Malaysia.
+
+(2) This Act shall come into force on such date as the Minister may by notification in the Gazette appoint, such date not being earlier than that on which the notification is published.
+
+(3) The Minister may by order suspend the operation of this Act in part or parts of Malaysia.
+
+### 2. Interpretation
+
+In this Act, unless the context otherwise requires—
+
+“Area Fishermen’s Association” means an association of persons of not less than fifty in number formed in accordance with this Act or any regulations made thereunder for any area in any State;
+
+“Fishermen’s Association” means an Area Fishermen’s Association, a State Fishermen’s Association or a National Fishermen’s Association;
+
+“fishermen’s co-operative society” means any co-operative society which, upon the coming into operation of this Act, is registered under the *Co-operative Societies Act 1948 [Act 287], the Co-operative Societies Ordinance 1958 of Sabah [Ord. No. 3 of 1958] and the Cooperative Societies Ordinance of Sarawak [Cap. 66] and whose principal objects or main functions concern fishery production, credit, marketing or processing or any such commercial and trading ventures: Provided that where there is a dispute as to whether any cooperative society is a fishermen’s co-operative society, such dispute shall be referred to the Registrar whose decision shall be final and shall not be called in question in any Court;
+
+“fishing” means estuarine or marine fishing;
+
+“Minister” means the Minister for the time being charged with responsibility for fisheries;
+
+“National Fishermen’s Association” means a confederation of any two or more State Fishermen’s Associations in accordance with this Act;
+
+“Region” means an area comprising two or more States as may be determined by the Minister;
+
+“Registrar” means the Registrar of Fishermen’s Associations appointed under section 6;
+
+“State Fishermen’s Association” means a confederation of any two or more Area Fishermen’s Associations in accordance with this Act. ________________________________________________________ *NOTE—Act 287, Sabah Ord. No. 3 of 1958 and Sarawak Cap. 66 have been repealed—see section 95 Co-operative Societies Act 1993 [Act 502].
+
+## PART II — FORMATION OF AREA, STATE AND NATIONAL FISHERMEN’S ASSOCIATIONS
+
+### 3. Formation
+
+(1) An Area Fishermen’s Association may be formed in accordance with this Act or any regulations made thereunder.
+
+(2) Any two or more Area Fishermen’s Associations registered in accordance with this Act may, with the approval of the Registrar confederate into one State Fishermen’s Association.
+
+(3) Any two or more State Fishermen’s Associations registered in accordance with this Act may, with the approval of the Registrar, confederate into a National Fishermen’s Association.
+
+### 4. Prohibition
+
+No Area, State or National Fishermen’s Associations shall carry on business unless it is formed and registered in accordance with this Act.
+
+### 5. Objects of Fishermen’s Associations
+
+(1) A Fishermen’s Association may be formed with the object or objects of promoting the economic and social interests or well being of its members and shall have the power to do all things necessary to achieve the objects and in particular, but without prejudice to the generality of the foregoing, it shall have the power—
+
+(a) to manage and operate financial aid scheme to provide credit and capital resources to members;
+
+(b) to promote member education and training including circulation of information on matters of interest to members;
+
+(c) to organize exhibition, fairs and displays;
+
+(d) to organize fishing operation or aquaculture; the assembling, storage, processing, distribution and disposal of members’ products;
+
+(e) to provide health centres, nurseries, thrift institutions, insurance, mutual aid and other welfare programmes;
+
+(f) to assist in investigations and the collection of statistics of the fishing industry;
+
+(g) to provide buoys and other navigation aids and fishing harbour facilities;
+
+(h) to mediate in disputes involving a member or members arising in the fishing industry;
+
+(i) to organize the participation of members in any programmes for the conservation of fishery resources;
+
+(j) to operate and provide transportation facilities to enhance fish marketing activities and related activities;
+
+(k) to provide marketing, storage, drying, warehousing and other facilities; and
+
+(l) to facilitate capital formation and investment among members through the establishment of companies or equity participation in trading and business ventures.
+
+(2) Notwithstanding the powers conferred by subsection (1), a Fishermen’s Association shall not establish any company or participate in the equity of any trading or business ventures without the prior written approval of the Registrar, and the Registrar may, in giving such approval, impose any condition he deems fit.
+
+(3) Without prejudice to the powers conferred upon the Registrar in subsection (2), the Registrar may, by order in writing, limit, impose conditions on or regulate the powers of any Fishermen’s Association to ensure efficiency in, and to avoid duplication of, the functions of such Fishermen’s Association.
+
+(4) Any person who is dissatisfied with any order of the Registrar under subsection (2) or (3) may appeal to the Minister within thirty days of such order and the Minister may confirm, vary or revoke such order; and the decision of the Minister shall be final and shall not be called in question in any Court.
+
+## PART III — REGISTRATION
+
+### 6. Registrar of all Fishermen’s Associations
+
+(1) There shall be appointed a Registrar of Fishermen’s Associations and such Assistant Registrars with such powers of a Registrar under this Act as may be specified by the Minister.
+
+(2) All appointments under this section shall be published in the Gazette.
+
+(3) The Director General of the Lembaga Kemajuan Ikan Malaysia shall be the Registrar.
+
+(4) The Registrar may in writing delegate to any person, including any officer in the public service in the States of Sabah and Sarawak, any of his powers under this Act except his powers to suspend or dissolve any Fishermen’s Association.
+
+### 7. Register
+
+The Registrar shall keep and maintain or cause to be kept and maintained a register or registers which shall contain such particulars relating to the registration of all Fishermen’s Associations as he may think expedient.
+
+### 8. Conditions for registration
+
+(1) Save as provided with respect to the registration of State and National Fishermen’s Associations no Area Fishermen’s Association shall be registered unless—
+
+(a) there has been a meeting at which there have been present 50 or more persons described in paragraph 11(1)(a);
+
+(b) at the meeting aforesaid there shall have been presented a written statement showing the objects of the Area Fishermen’s Association and copy of the constitution or rules for the management of such Association; and
+
+(c) provisions in the constitution or the rules of such Association include those provisions prescribed in the rules made under this Act.
+
+(2) A certificate of registration signed by the Registrar shall be conclusive evidence that the Association therein mentioned is duly registered under this Act, unless it is proved that the registration of the Association has been cancelled.
+
+## PART IV — STATE FISHERMEN’S ASSOCIATIONS SUPERVISING OFFICER
+
+### 9. Supervising authorities
+
+(1) The Minister may appoint in respect of every Region and State, a Fishermen’s Associations Supervising Officer.
+
+(2) An appointment made under subsection (1) shall be for such period or on such conditions as the Minister may determine.
+
+(3) A person appointed under this section shall be under the general directions of the Registrar.
+
+### 10. Duties of Supervising Officers
+
+(1) A Fishermen’s Associations Supervising Officer appointed in respect of a State shall—
+
+(a) advise Area Fishermen’s Associations and State Fishermen’s Associations in the State on the activities of such associations;
+
+(b) co-ordinate any scheme or schemes carried out by Area Fishermen’s Associations in the State; and
+
+(c) inspect and supervise the activities of Area Fishermen’s Associations and State Fishermen’s Association in the State.
+
+(2) A Fishermen’s Associations Supervising Officer appointed in respect of a Region shall have overall supervision of all Area and State Fishermen’s Associations in that Region.
+
+## PART V — MEMBERS OF AREA FISHERMEN’S ASSOCIATIONS
+
+### 11. Members of Area Fishermen’s Associations
+
+(1) Any person who is resident within the operative area of an Area Fishermen’s Association and who has attained the age of 18 years shall be eligible to become a member of an Area Fishermen’s Association if he belongs to any of the following categories, that is to say:
+
+(a) any person who is engaged in catching, harvesting or the culture of aquatic organisms for a minimum period of one hundred and twenty days in a year;
+
+(b) any person who is a fish processor, handler or dealer;
+
+(c) any person who derives sixty per cent or more of his total income from the fishery industry.
+
+(2) Any person who conducts research on or is engaged in the development and improvement of the fishing industry, shall be eligible for associate membership.
+
+(3) No person shall be a member of more than one Area Fishermen’s Association.
+
+(4) No rights of membership shall be exercised by any member until he has made such payments to the Area Fishermen’s Association in respect of his membership as provided in the constitution or rules of such association.
+
+(5) A person shall cease to be a member of an Area Fishermen’s Association in any of the following circumstances, that is to say:
+
+(a) when he resigns voluntarily in accordance with the constitution or rules of such association;
+
+(b) when he is deemed to have ceased to be a member by the provisions of the constitution or rules of such association; or
+
+(c) on his death.
+
+(6) When any question arises as to residence of a person for the purpose of determining his eligibility under subsection (1), it shall be decided by the Registrar whose decision shall be final.
+
+(7) (Deleted by Act A1294).
+
+### 11A. Register to be prima facie evidence
+
+Any register or list of members kept by any Area Fishermen’s Association shall be prima facie evidence of the name, address, identity card number, membership number, and occupation of a member and of the dates he became and ceased to be a member.
+
+## PART VI — MANAGEMENT AND FUNDS OF AREA, STATE AND NATIONAL FISHERMEN’S ASSOCIATIONS
+
+### 12. Directors
+
+(1) Each of the Fishermen’s Associations shall be controlled by a Board of Directors who shall be elected or appointed in accordance with, and shall have such powers as may be determined by, the constitution or rules of such association.
+
+(2) For the purpose of conducting the business operations of each of such associations, there shall be a General Manager and other officers and servants of such association to be appointed in accordance with the constitution or rules of such association.
+
+(3) The responsibilities and duties of the General Manager, the officers and the Board of Directors aforesaid shall be in accordance with the constitution or rules of such association.
+
+(4) The Directors shall hold office, may resign and may be removed from office in accordance with the constitution or rules of such association.
+
+(5) The office of a Director shall be deemed to be vacated in any of the following cases:
+
+(a) if he becomes a bankrupt;
+
+(b) if he is convicted of a criminal offence involving fraud, dishonesty or moral turpitude;
+
+(c) if he absents himself from three consecutive meetings of the Board of Directors without leave;
+
+(d) if he ceases to be a citizen of Malaysia or a member of an Area Fishermen’s Association;
+
+(e) if he becomes insane;
+
+(f) if he becomes an employee of such association; or
+
+(g) if he engages in any business or acts in a manner which in the opinion of the Minister is prejudicial to the interests of such association.
+
+### 13. Funds of Fishermen’s Associations
+
+The funds of each of the Fishermen’s Associations shall consist of—
+
+(a) subscriptions of members; and
+
+(b) moneys acquired, accrued or derived by virtue of the powers of such association conferred by this Act or any regulations made thereunder or the constitution or rules of such association. Power to borrow money, etc.
+
+### 13A.
+
+(1) For the purpose of carrying out its objects under section 5, a Fishermen’s Association may borrow moneys or incur other financial commitments or obligations with the permission in writing of the Registrar.
+
+(2) At each annual general meeting, every Fishermen’s Association shall determine the maximum limit of indebtedness which it may incur, subject to the Registrar’s permission pursuant to subsection (1), at any time in the coming financial year.
+
+### 13B. Investment of funds
+
+Subject to section 5, a Fishermen’s Association may invest or deposit its funds—
+
+(a) in any bank approved by the Registrar from time to time;
+
+(b) in any of the securities of the Federal Government or of the Government of any State;
+
+(c) in securities issued in the Federation with the approval of the Treasury by any public authority established under Federal or State law;
+
+(d) with the approval of the Registrar, in the share capital or securities of any registered body or company;
+
+(e) with the approval of the Registrar, in the purchase of lands or buildings or in the construction of buildings; or
+
+(f) in any other mode approved by the Registrar.
+
+### 14. Reserve Fund
+
+Every Fishermen’s Association shall establish a Reserve Fund which shall consist of moneys from the general fund set aside for that purpose and which shall be used in accordance with the constitution or rules of such association.
+
+## PART VII — CONFEDERATION OF AREA AND STATE FISHERMEN’S ASSOCIATIONS
+
+### 15. Procedure for confederation of Area Fishermen’s Association
+
+(1) Any Area Fishermen’s Association may give notice in accordance with the rules of such association of intention to hold a special general meeting of such association at which a special resolution for the confederation with the other Area Fishermen’s Associations will be proposed.
+
+(2) At the meeting of each Area Fishermen’s Association aforesaid a special resolution shall be proposed for the confederation and that an application shall be made to the Registrar for the purpose.
+
+### 16. Registration of State Fishermen’s Association
+
+If any application under section 15 has been made in respect of each Area Fishermen’s Association and the Registrar is satisfied—
+
+(a) that the special resolution in favour of the proposed confederation has been duly passed by each Area Fishermen’s Association corresponding in all material particulars with the resolution or resolutions passed by the other Area Fishermen’s Associations;
+
+(b) that the scheme of confederation contained in the resolution aforesaid in the case of each Area Fishermen’s Association corresponds in all material particulars to the resolution or resolutions of the other Area Fishermen’s Associations; and
+
+(c) that the provisions of the constitution or rules of the proposed State Fishermen’s Association are not contrary to this Act or rules made thereunder, he shall register or cause to be registered the State Fishermen’s Association according to the rules made under this Act.
+
+### 17. Procedure for confederation of State Fishermen’s Associations
+
+In respect of the procedure for confederation of any two or more State Fishermen’s Associations, sections 15 and 16 shall apply provided that for the expressions “Area Fishermen’s Association” and “State Fishermen’s Association” wherever they occur in the sections aforesaid substitute “State Fishermen’s Association” and
+
+“National Fishermen’s Association” respectively.
+
+## PART VIII — GENERAL
+
+Fishermen’s Association to be body corporate 18. Upon registration under this Act, a Fishermen’s Association—
+
+(a) shall be a body corporate with perpetual succession and a common seal and shall have the power to enter into contracts to institute and defend actions, suits and legal proceedings and to do all things necessary for the purpose of achieving the objects mentioned in section 5; and
+
+(b) may acquire by lease, purchase, donation, gift, demise, bequest or otherwise any movable or immovable property for any of the objects of such association and for such purposes may sell or lease or otherwise deal with any such property.
+
+### 18A. Settlement of disputes
+
+(1) (a) If any dispute touching the business of an Area Fishermen’s Association arises—
+
+(i) among members, past members and persons claiming through members, past members and deceased members; or
+
+(ii) between a member, past member or person claiming through a member, past member or deceased member, and such association or its Board of Directors; or
+
+(iii) between such association and any other Area Fishermen’s Association, such dispute shall be referred to the Registrar for decision.
+
+(b) A claim by an Area Fishermen’s Association for any debt or demand due to it from a member, past member or the nominee, heir or legal representative of a deceased member, shall be deemed to be a dispute touching the business of such association.
+
+(2) The Registrar may, on receipt of a reference under subsection (1)—
+
+(a) decide the dispute himself; or
+
+(b) refer it for disposal to an arbitrator or arbitrators.
+
+(3) An appeal against the decision of the Registrar or the arbitrator or arbitrators under subsection (2) shall lie to the Minister and shall be made within two months from the date of the decision.
+
+(4) A decision of the Minister in an appeal under subsection (3) shall be final and shall not be called in question in any court.
+
+(5) Any decision of the Registrar or the arbitrator or arbitrators under subsection (2) or, if there be an appeal therefrom, the decision as confirmed or varied by the Minister, shall be enforced in the same manner as if the decision had been a judgment of a Sessions Court.
+
+(6) (a) Any dispute touching the business of a State or National Fishermen’s Association arising between an Area Fishermen’s Association and the State Fishermen’s Association or between a State Fishermen’s Association and the National Fishermen’s Association, shall be referred to the Registrar for decision.
+
+(b) A claim by a State or National Fishermen’s Association for any debt or demand due to it from an Area or State Fishermen’s Association, as the case may be, shall be deemed to be a dispute touching the business of such association.
+
+(c) Subsections (2), (3), (4) and (5) shall apply to such dispute as they apply to a dispute under subsection (1).
+
+### 18B. Case stated on question of law
+
+(1) Notwithstanding anything contained in section 18A, the Minister at any time when an appeal has been preferred to him under that section, may refer any question of law arising in the course of proceedings relating to such appeal for the opinion of the High Court.
+
+(2) The High Court shall hear and determine the question of law so referred.
+
+### 19. Power to inspect
+
+The Registrar, or any person authorized by him in writing in that behalf, shall have the power—
+
+(a) to inspect the accounts and property of any Fishermen’s Association; and
+
+(b) to hold an inquiry into the workings of the business and financial conditions of such association.
+
+### 20. Power to suspend and dissolve
+
+(1) If the Registrar is of the opinion that it is in the interest of the members generally in any area or State so to do he may by order suspend the constitution or the rules of any Area or State Fishermen’s Association.
+
+(2) As soon as the order under subsection (1) has been made the Registrar shall cause an inquiry to be made in respect of such association in respect of which the order was made or any aspect of the business of such association.
+
+(3) After the inquiry under subsection (2) has been made the Registrar may revoke the order of suspension or order that such association be dissolved as he thinks expedient.
+
+(4) Subject to any appeal made under section 21, the order for the dissolution of an Area or State Fishermen’s Association shall take effect on the expiry of the period of three months after the date of publication of the order.
+
+(5) An Area or State Fishermen’s Association affected by an order under this section shall be dissolved in accordance with the rules made under this Act.
+
+### 21. Appeal
+
+Any person aggrieved by any order of the Registrar made under section 20 may within thirty days of the making of such order, appeal to the Minister, who shall confirm or set aside the order; and the decision of the Minister shall be final and shall not be called in question in any court.
+
+### 22. No business during suspension
+
+During the period of suspension of an Area or State Fishermen’s Association it shall be unlawful notwithstanding section 4 for such association to carry on any business: Provided that this section shall not prevent the management or the carrying of business of such association by any person or persons appointed under section 23.
+
+### 23. Management during suspension
+
+It shall be competent for the Registrar after an order to suspend an Area or State Fishermen’s Association has been made to appoint any person or persons to manage the affairs of such association during such suspension until such time as the new Board of Directors or any officers of such association have been elected or employed.
+
+### 24. Annual meeting
+
+The annual general meeting of every Fishermen’s Association shall be held within 2 months after the close of each such association’s financial year or within such further time as may be allowed by the Registrar or prescribed by the constitution or rules of such association.
+
+### 25. Audit
+
+The Registrar shall audit or cause to be audited by some person authorized by him by general or special order in writing the accounts of every Fishermen’s Association once at least in every year.
+
+### 25A. Right of access to accounting and other records
+
+(1) The Registrar or any person authorized by him in writing shall have a right of access at all times to accounting and other records, including registers, of every Fishermen’s Association and shall have power—
+
+(a) to summon any officer or past officer or agent or servant or member of the Fishermen’s Association who he has reason to believe can give material information in regard to any transaction of the Fishermen’s Association or the management of its affairs;
+
+(b) to require the production, at such place and within such period as may be specified by him, of any book or document relating to the affairs of the Fishermen’s Association or any cash or security belonging to the Fishermen’s Association by the officer or past officer or agent or servant or member in possession of such book, document, cash or securities.
+
+(2) Where in the course of the winding-up of a Fishermen’s Association or consequent upon an audit under section 25 or consequent upon an inquiry or inspection under section 19 it appears that any person who has taken part in the organization or management of the Fishermen’s Association or any officer or past officer or agent or servant or member of the Fishermen’s Association has misapplied or retained or become liable or accountable for any money or property of the Fishermen’s Association or has been guilty of misfeasance or breach of trust in relation to the Fishermen’s Association, the Registrar, on his own motion or upon the application of a liquidator, creditor or contributory, may examine into the conduct of such person and may make an order requiring him to repay or restore the money or property or any part thereof together with interest at such rate as the Registrar thinks just or requiring him to contribute such sum as the Registrar thinks just to the assets of the Fishermen’s Association by way of compensation in regard to the misapplication, retention, dishonesty or breach of trust; and such order shall be enforced in the same manner as if the order had been a judgment of a Court.
+
+### 26. Rules
+
+(1) The Minister may make rules for the purpose of carrying into effect any of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection (1) rules made under this section may provide for any of the following matters:
+
+(a) provisions required for the constitution or rules of every Fishermen’s Association;
+
+(b) matters relating to suspension of Area or State Fishermen’s Associations;
+
+(c) matters relating to the dissolution of any Fishermen’s Association including the appointment of person to liquidate any such association ordered to be dissolved; and
+
+(d) the establishment of a National Advisory Body for the purpose of co-ordinating any scheme or schemes made pursuant to any provisions of this Act.
+
+### 27. Regulations
+
+(1) The Minister may make regulations for the purpose of carrying into effect any of the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection (1) regulations made under this section may provide for any of the following matters:
+
+(a) the formation, establishment, management and supervision of Fishermen’s Associations and the election and dismissal of officers of such associations;
+
+(b) the auditing and accounting system of Fishermen’s Associations; and
+
+(c) the operation of supervised form of credit programme and the organization and function of members’ credit standing committee of Fishermen’s Associations. Special powers of Minister to exempt from requirements as to registration, etc.
+
+### 28.
+
+(1) Notwithstanding anything contained in this Act the Minister may, by special order in each case and subject to such conditions, if any, as he may impose, exempt any Fishermen’s Association from any of the requirements of this Act as to registration.
+
+(2) The Minister may, by general or special order, exempt any Fishermen’s Association from any other provisions of this Act, or may direct that such provisions shall apply to such association with effect from such date or with such modifications as may be specified in the order.
+
+### 29. Power to exempt from duty or tax
+
+The Minister of Finance may by notification in the Gazette, in the case of any Fishermen’s Association or any class of such associations reduce or remit—
+
+(a) the duty or tax which under any law for the time being in force may be payable in respect of the profits of such association or of the dividends or other payments received by the members of such association on account of profits;
+
+(b) (Deleted by Act 478).
+
+### 30. Prohibition of the use of the word “Fishermen’s Association”
+
+(1) No person, society or association other than a Fishermen’s Association registered under this Act shall trade or carry on business under any name or title of which the word “Fishermen’s Association” is part without the sanction of the Minister: Provided that nothing in this section shall apply to the use by any person, society or association or his or the successor in interest of any name or title under which trade or business has been carried on at the commencement of this Act.
+
+(2) Any person who contravenes the provisions of this section shall be guilty of an offence and shall be liable to a fine not exceeding one hundred ringgit, and, in the case of a continuing offence, to a further fine of five ringgit for each day during which the offence continues.
+
+### 31. Trade Union laws and Companies Act not to apply
+
+Any written law in force relating to trade unions and the Companies Act 1965 [Act 125], shall not apply to any association of fishermen registered under this Act. Offences 32. Any person who—
+
+(a) neglects or refuses to do any act or refuses or fails to furnish any information required for the purposes of this Act or any rules made thereunder;
+
+(b) gives false information or makes any false statement on any matter required under this Act or any rules made thereunder to be given or made;
+
+(c) fails to obey any requisition or lawful written order issued under this Act or any rules made thereunder; and
+
+(d) violates or fails to comply with any other requirements of the Act or any rules made thereunder, shall be guilty of an offence under this Act and shall be liable to a fine not exceeding one thousand ringgit and, in the case of a continuing offence, to a further fine of fifty ringgit for each day during which the offence continues.
+
+### 32A. Proof of entries in the books of Fishermen’s Association
+
+(1) Any copy of any entry in any book regularly kept in the course of business of any Fishermen’s Association shall, if certified in such manner as may be prescribed by regulations, be received in any legal proceedings, civil or criminal, as prima facie evidence of the existence of such entry and shall be admitted as evidence of the matters, transactions and accounts therein recorded if, and to the same extent as, the original entry itself is admissible.
+
+(2) No officer of any Fishermen’s Association shall, in any legal proceedings to which the Fishermen’s Association is not a party, be compelled to produce any of the association’s books, the contents of which can be proved under subsection (1), or to appear as a witness to prove any matters, transactions or accounts therein recorded, unless the Court for special reasons so directs.
+
+### 33. Amendment
+
+The Farmers’ Association Act 1967 [Act 22 of 1967] is hereby amended—
+
+(a) by deleting the words “or estuarine or marine” appearing in the definition of “farmer” under section 2 thereof; and
+
+(b) by inserting the word “inland” immediately before the word “fisheries” appearing in paragraph 5(a) thereof. 34. (Deleted by Act A1294). 35. (Deleted by Act A1294). 36. (Deleted by Act A1294). *NOTE—Act 22 of 1967 has been repealed – see section 36 Farmer’s Organization Act 1973 [Act 109].

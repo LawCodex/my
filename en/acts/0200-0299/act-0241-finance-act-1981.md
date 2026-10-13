@@ -1,0 +1,277 @@
+---
+title: "FINANCE ACT 1981"
+identifier: "Act 241"
+type: act
+jurisdiction: my
+language: en
+last_amended: 2006-01-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20241.pdf"
+retrieved: 2026-10-13
+---
+
+# FINANCE ACT 1981
+
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+
+#### 1. C HAPTER I PRELIMINARY Short title and commencement
+
+This Act may be cited as the Finance Act 1981 and shall have effect or be deemed to have effect as provided in this Act.
+
+#### 2. Amendment of Acts and Ordinance
+
+The Income Tax Act 1967 [Act 53], the *Supplementary Income Tax Act 1967 [Act 54], the Real Property Gains Tax Act 1976
+
+[Act 169] and the **Stamp Ordinance 1949 [Ord. 59 of 1949] are amended respectively in the manner specified in Chapters II, III, IV and V of this Act. *NOTE—Supplementary Income Tax Act 1967 [Act 54] has since been repealed by Finance Act
+
+[Act 497]—see subsection 16(1) of Act 497. **NOTE—Stamp Ordinance 1949 [Ord. 59 of 1949] has since been revised as Stamp Act 1949
+
+[Act 378].
+
+### CHAPTER II — AMENDMENTS TO THE INCOME TAX ACT 1967
+
+#### 3. Commencement of amendments to Income Tax Act 1967
+
+(1) The provisions of this Chapter [except section 8, paragraph 10(b), sections 11, 12, 16 and paragraph 18(a)] shall have effect for the year of assessment 1981 and subsequent years of assessment.
+
+(2) Section 8, paragraph 10(b), sections 11, 12, 16 and paragraph 18(a) shall be deemed to have effect for the year of assessment 1980 and subsequent years of assessment.
+
+#### 4. Amendment of section 5
+
+Section 5 of the Income Tax Act 1967, which in this Chapter is referred to as the principal Act, is amended by inserting after subsection (3) the following subsection (4)—
+
+“(4) In ascertaining the chargeable income of a company for the purpose of section 3A there shall not be taken into account dividend income derived from Malaysia.”.
+
+#### 5. New section 6B
+
+The principal Act is amended by inserting after section 6A the following section 6B—
+
+“Tax rebate on loan to a small business 6 B. (1) Subject to this section, income tax charged for each year of assessment upon the chargeable income of a person who gives any loan to a small business shall be rebated by an amount equivalent to two per cent pro rated per annum, or such other rate as may be prescribed from time to time by the Minister, on the outstanding balance of the loan calculated on term loan basis before any set off is made under section 110 and any credit is allowed under section 132 or section 133: Provided that where the rebate exceeds the income tax charged (before any such rebate) for any year of assessment, the excess shall not be paid to that person and shall not be available as a credit to set off any tax liability for that year of assessment but it shall be available as a credit to set off any income tax chargeable for any subsequent year of assessment.
+
+(2) ‘Loan to a small business’ means a loan that conforms to the guidelines laid down by an appropriate authority designated by the Minister from time to time.”.
+
+#### 6. Amendment of section 7
+
+The principal Act is amended by substituting for paragraph 7(1)(b) the following:
+
+“(b) he is in Malaysia in that basis year for a period of less than one hundred and eighty-two days and that period forms part of a period of more than one hundred and eighty-two consecutive days (hereinafter referred to in this paragraph as such period) throughout which he is in Malaysia in the basis year for the year of assessment immediately preceding that particular year of assessment or in that basis year for the year of assessment immediately following that particular year of assessment: Provided that any temporary absence from Malaysia—
+
+(i) connected with his service in Malaysia and owing to service matters or attending conferences or seminars or study abroad;
+
+(ii) owing to ill-health involving himself or a member of his immediate family; and
+
+(iii) in respect of social visits not exceeding fourteen days in the aggregate, shall be taken to form part of such period;”.
+
+#### 7. New section 13A
+
+The principal Act is amended by inserting after section 13 the following section 13A—
+
+“Special provisions as to employment income while aboard ship
+
+#### 13A.
+
+(1) Notwithstanding paragraph 13(2)(e) income from a period of employment exercised aboard a ship while it is engaged in international traffic shall not be deemed to be derived from Malaysia if the ship is a Malaysian-registered ship and is used in a business operated by a person resident in Malaysia for the basis year for a year of assessment.
+
+(2) For the purposes of this section, in any calendar year the period of leave and return visits to Malaysia not exceeding sixty days in the aggregate calculated by reference to the number of days served aboard the ship upon the total number of days in a calendar year shall be deemed to be employment exercised aboard the ship.
+
+(3) For the purposes of this section, ‘international traffic’ means any voyage excluding a voyage solely between ports in Malaysia or a voyage commencing from any port in Malaysia to any port in Singapore or vice versa.”. Amendment of section 18 8. The principal Act is amended by deleting the words “except timber (whether felled or otherwise)” in the interpretation of “crops” in section 18. Amendment of section 22 9. Section 22 of the principal Act is amended—
+
+(a) by inserting the words “or deemed to have been received” after the words “any sums receivable” in subsection (2);
+
+(b) by deleting the word “and” in subparagraph (2)(a)(ii);
+
+(c) by substituting for the full stop in paragraph (2)(b) a semicolon and the word “and”; and
+
+(d) by inserting after paragraph (2)(b) the following:
+
+“(c) a rebate under section 6B.”. Amendment of section 39 10. Section 39 of the principal Act is amended—
+
+(a) by inserting the words “or royalty” after the word “interest” in paragraph (1)(f); and
+
+(b) by deleting the symbol “)” after the words “State Government” and inserting the symbol “)” after the words “a statutory authority” and before the words “for the use of” in paragraph (1)(g). Amendment of section 47 11. Section 47 of the principal Act is amended—
+
+(a) by substituting respectively for the symbols and figures“(4)” and “(5)” in subsection (1) the symbols and figures“(3)” and “(4)”;
+
+(b) by substituting for the symbols and figure “(4)” in subsection (2) the symbols and figure “(3)”; and
+
+(c) by substituting for the symbols and figure “(3)” after the word “and” in subsection (3) the symbols and figure “(2)”. Amendment of section 49 12. The principal Act is amended by inserting the words “five hundred” after the words “three thousand” in the proviso to subsection 49(1). Amendment of section 108 13. The principal Act is amended by inserting the words “any rebate under section 6B or” after the word “less” in subsection 108(4).
+
+#### 14. Amendment of section 109
+
+The principal Act is amended by substituting for subsection 109(1) the following:
+
+“Deduction of tax from interest or royalty in certain cases 109. (1) Where any person (in this section referred to as the payer) is liable to pay interest or royalty derived from Malaysia to any other person not known to him to be resident or to have a place of business in Malaysia, he shall upon paying or crediting the interest (other than interest on an approved loan or long-term loan or interest of the kind referred to in paragraph 33 of Part I, Schedule 6) or royalty deduct therefrom tax at the rate applicable to such interest or royalty, and (whether or not that tax is so deducted) shall within one month after paying or crediting the interest or royalty render an account and pay the amount of that tax to the Director General: Provided that the Director General may—
+
+(a) give notice in writing to the payer requiring him to deduct and pay tax at some other rates or to pay or credit the interest or royalty without deduction of tax; or
+
+(b) under special circumstances allow extension of time for tax deducted to be paid over.”.
+
+#### 15. Amendment of section 128
+
+The principal Act is amended by substituting for subsection 128(1) the following:
+
+“Exemption from tax: residential premises and premises where, owing to circumstances, owner is compelled to vacate 128. (1) Subject to this section—
+
+(a) where an individual who is the owner of a residence occupies the residence (hereinafter referred to in this section as that residence) as owner throughout the basis period for a year of assessment (that period and that year being referred to in this section as the relevant period and the relevant year respectively) or during any part of the relevant period, his gross income from the occupation for the relevant period or for that part of the relevant period, as the case maybe, shall be disregarded for the purposes of this Act; or
+
+(b) where an individual is an employee, on satisfying the Director General that as a result of being transferred by his employer to another part of Malaysia or as a result of taking up a new employment in another part of Malaysia he is compelled to vacate that residence in order to occupy another residence (not owned by him) located at a place beyond a distance of twenty miles from that residence, the rent receivable by him from that residence shall be disregarded for the purposes of this Act; or
+
+(c) where an individual is not an employee, on satisfying the Director General that he is compelled to vacate that residence in order to occupy another residence (not owned by him) located at a place beyond a distance of twenty miles from that residence immediately following a change in his business operations from one part of Malaysia to another part of Malaysia, the rent receivable by him from that residence shall be disregarded for the purposes of this Act.”.
+
+#### 16. Amendment of Schedule 1
+
+The principal Act is amended by deleting the letter “s” in the word “provides” in paragraph 1 of Part I of Schedule 1. Amendment of Schedule 3 17. Schedule 3 to the principal Act is amended—
+
+(a) by inserting after paragraph 11 the following paragraph
+
+11A—
+
+“11A. Subject to this Schedule, where in the basis period for a year of assessment a person has for the purposes of a business of his which consists of the construction of any works, roads, structures and buildings incurred qualifying plant expenditure on the provision of machinery or plant used directly in the construction of such works, roads, structures and buildings, there shall be made to him in relation to the source consisting of that business for that year an allowance instead of the allowance under paragraph 10 equal to three-tenths of the expenditure, unless he elects in writing, when claiming an allowance for that year in respect of that expenditure, that the allowance be equal to one-fifth of that expenditure.”;
+
+(b) by inserting the words “or 11A” after the figures “11” wherever they appear in paragraph 13(b);
+
+(c) by deleting the words “of the residual expenditure at the end of that period” and inserting the words “of that expenditure” after the words “may be prescribed” in paragraph 15;
+
+(d) by inserting after paragraph 15 the following paragraph
+
+15A—
+
+“15A. Subject to this Schedule, where a person has for the purposes of a business of his incurred qualifying plant expenditure in relation to an asset more than six years prior to the beginning of the basis period for the year of assessment 1981 and an annual allowance was made to him in relation to that source consisting of that business for a year of assessment prior to the year of assessment 1981 in respect of that expenditure, he may elect in writing that an annual allowance be made to him equal to one-half of the residual expenditure, if any, for the year of assessment 1981 and the following year of assessment provided that he was the owner of the asset and it was in use for the purposes of his business at the end of the basis period for each of those years of assessment.”;
+
+(e) by inserting the figures “15,” after the words “under paragraph” in paragraph 18;
+
+(f) by substituting for the words “residual expenditure” in paragraph 19 the words “qualifying plant expenditure”; and
+
+(g) by substituting for the word “value” after the words “exceeds the residual” in paragraph 35 the word “expenditure”. Amendment of Schedule 6 18. Part I of Schedule 6 to the principal Act is amended—
+
+(a) by inserting after paragraph 25 the following paragraph
+
+25B—
+
+“25B. Sums received by way of gratuity paid out of public funds on termination of a contract of employment (less the employer’s contribution to the Employees Provident Fund, if any, and interest thereon).”; and
+
+(b) by inserting after paragraph 33 the following paragraph 34—
+
+“34. Income under section 13A remitted to Malaysia.”.
+
+### CHAPTER III — AMENDMENT TO THE SUPPLEMENTARY INCOME TAX ACT 1967
+
+#### 19. Commencement of amendment to Supplementary Income Tax Act 1967
+
+The provisions of this Chapter shall have effect for the year of assessment 1981 and subsequent years of assessment.
+
+#### 20. Amendment of section 16
+
+The Supplementary Income Tax Act 1967 is amended by substituting for section 16 the following:
+
+“Amount of development tax chargeable 16. Subject to this Part, the amount of development tax chargeable for a year of assessment shall be—
+
+(a) in the case of a person other than an individual, an amount calculated at the rate of five per cent on every ringgit of the development income of that person for that year; and
+
+(b) in the case of an individual, an amount calculated at the rate of five per cent on every ringgit of his development income for that year in excess of five thousand ringgit: Provided that where his development income for that year does not exceed five thousand ringgit, he shall be exempt from development tax for that year.”.
+
+### CHAPTER IV — AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976
+
+#### 21. Commencement of amendments to Real Property Gains Tax Act 1976
+
+(1) The provisions of this Chapter (except sections 24, 25 and 26) shall be deemed to have come into force on 18 October 1980.
+
+(2) Sections 24, 25 and 26 shall be deemed to have come into force on 7 November 1975.
+
+#### 22. Amendment of section 2
+
+The Real Property Gains Tax Act 1976, which in this Chapter is referred to as the principal Act, is amended by inserting appropriately in subsection 2(1) the following interpretations of “co-proprietor”, “co-proprietorship” and “permanent resident”— ‘ “co-proprietor” and “co-proprietorship” have the meaning respectively assigned to them by the National Land Code [Act 56 of 1965];’; ‘ “permanent resident” means a person treated as such under any written law relating to immigration;’.
+
+#### 23. Amendment of section 8
+
+The principal Act is amended by inserting the words “who is a citizen or an individual who is not a citizen but is a permanent resident” after the words “to an individual” in section 8.
+
+#### 24. Amendment of section 47
+
+The interpretation of “classified person” in subsection 47(5) of the principal Act is amended—
+
+(a) by deleting the word “or” in paragraph (b);
+
+(b) by inserting the word “or” after the semi-colon at the end of paragraph (c); and
+
+(c) by inserting after paragraph (c) the following paragraph (d)—
+
+“(d) the Director General of Valuation and public officers under his direction and control;”. Amendment of Schedule 1 25. Schedule 1 to the principal Act is amended—
+
+(a) by substituting for the words “Body of persons and partnership” in the marginal note to paragraph 1 the words “Body of persons, partnership and co-proprietorship”; and
+
+(b) by inserting after subparagraph (2) of paragraph 1 the following subparagraph (3)—
+
+“(3) In the case of a co-proprietorship a disposal by one of the co-proprietors of his share of the chargeable asset shall be deemed to be part disposal of an asset by him alone and he shall be assessable and chargeable to tax on the chargeable gain resulting from such disposal.”.
+
+#### 26. Amendment of Schedule 2
+
+Schedule 2 to the principal Act is amended by inserting after subparagraph 24(2) the following subparagraph (3)—
+
+“(3) For the purposes of this paragraph the term“ instalments” refers to two or more payments of the acquisition price (other than any deposit or advance payment as stipulated in the agreement) as agreed to by the parties.”.
+
+#### 27. Amendment of Schedule 4
+
+Schedule 4 to the principal Act is amended by inserting the words “to an individual who is a citizen or an individual who is not a citizen but is a permanent resident” after the words “gain accruing” in paragraph 2. Amendment of Schedule 5 28. Schedule 5 to the principal Act is amended—
+
+(a) by inserting between the words “RATES OF TAX” and
+
+“Category of disposal” the following:
+
+“
+
+## PART I
+
+Except where Part II of this Schedule is applicable, the following rates of tax shall apply:”; and
+
+(b) by inserting at the end of the Schedule the following:
+
+“
+
+## PART II
+
+An individual who is not a citizen and not a permanent resident shall be charged at the rate of 40 per cent on every ringgit of the chargeable gain on the disposal of a chargeable asset acquired by him after 17 October 1980.”.
+
+### CHAPTER V — AMENDMENTS TO THE STAMP ORDINANCE 1949
+
+#### 29. Commencement of amendments to Stamp Ordinance 1949
+
+The provisions of this Chapter shall be deemed to have come into force on 1 January 1981.
+
+#### 30. New section 5A
+
+The Stamp Ordinance 1949, which in this Act is referred to as the Ordinance, is amended by inserting after section 5 the following section 5A—
+
+“Loan for the purposes of small business 5A. Every instrument being the only or principal or primary security for the payment or repayment of a loan to a small business shall be indorsed by an authority approved by the Minister of Finance that the loan was made for the purposes of a small business.”. Amendment of First Schedule 31. The First Schedule to the Ordinance is amended—
+
+(a) by re-numbering sub-item 27(a) as sub sub-item 27(a)(i);
+
+(b) by inserting after sub sub-item 27(a)(i) the following sub sub-item 27(a)(ii):
+
+“(ii) Being instruments under section 5A— Not exceeding RM250,000 of the aggregate loans in a calendar year RM1.00 for every RM1,000 or fractional part thereof. For each additional RM1,000 or part thereof RM5.00”; and
+
+(c) by substituting for sub sub-item 49(1)(a) the following:
+
+“(a) Without fine or premium when the average rent calculated for a whole year—
+
+(i) Does not exceed
+
+RM2,400
+
+When the Lease is for a period Not Exceeding Exceeding exceeding one but not three years one year exceeding or for any three years indefinite period NIL (ii) For every
+
+RM1.00
+
+RM250 or part thereof in excess of
+
+RM2,400
+
+NIL
+
+NIL
+
+RM2.00
+
+RM4.00
+
+”

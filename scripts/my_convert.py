@@ -284,10 +284,17 @@ def main():
             lines = strip_headers(pages, actno)
             title, blocks = convert_text(lines)
             title = cover_title(pages[0]) or title
+            if title.startswith("WARTA KERAJAAN"):
+                title = f"Act {actno}" if lang == "BI" else f"Akta {actno}"
             if not title:
                 title = ("Federal Constitution" if lang == "BI" else "Perlembagaan Persekutuan") \
                     if actno == "FC" else f"Act {actno}"
             body = render(blocks)
+            head = " ".join(pages[:2])
+            if (len(pages) <= 4 and re.search(r"\((Repealed|Dimansuhkan)\b", head)) or \
+                    re.search(r"\b(Repealed|Superseded|Ceased to have effect|Dimansuhkan|Digantikan|Terhenti)\b", title, re.I):
+                stats["repealed-placeholder-" + lang] += 1
+                continue
             if len(body) < 200:
                 stats["empty-" + lang] += 1
                 print("  short/empty:", actno, lang, flush=True)
@@ -299,7 +306,8 @@ def main():
             else:
                 n = int(re.match(r"\d+", actno).group()) if re.match(r"\d+", actno) else 0
                 shard = f"{(n // 100) * 100:04d}-{(n // 100) * 100 + 99:04d}"
-                rel = f"{L}/acts/{shard}/act-{actno.lower()}-{slug(title)}.md"
+                num = f"{n:04d}" + actno[len(str(n)):].lower() if n else actno.lower()
+                rel = f"{L}/acts/{shard}/act-{num}-{slug(title)}.md"
                 typ, ident = "act", f"Act {actno}"
             asat = a.get("date")
             fm = ["---", f"title: {yq(title)}", f"identifier: {yq(ident)}", f"type: {typ}",

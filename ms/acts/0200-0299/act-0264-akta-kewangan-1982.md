@@ -1,0 +1,207 @@
+---
+title: "AKTA KEWANGAN 1982"
+identifier: "Act 264"
+type: act
+jurisdiction: my
+language: ms
+last_amended: 2006-01-01
+status: in_force
+source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/MY/Akta%20264%20versi%20dalam%20talian%202019.pdf"
+retrieved: 2026-10-13
+---
+
+# AKTA KEWANGAN 1982
+
+MAKA INILAH DIPERBUAT UNDANG-UNDANG oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti yang berikut:
+
+## BAB I — PERMULAAN
+
+### 1. Tajuk ringkas dan permulaan kuat kuasa
+
+Akta ini bolehlah dinamakan Akta Kewangan 1982 dan hendaklah mula berkuat kuasa atau disifatkan telah mula berkuat kuasa seperti yang diperuntukkan dalam Akta ini.
+
+### 2. Pindaan Akta
+
+Akta Cukai Pendapatan 1967 [Akta 53] dan Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169] dipinda masing-masing dengan cara yang ditentukan dalam Bab II dan III.
+
+## BAB II — PINDAAN KEPADA AKTA CUKAI PENDAPATAN 1967
+
+### 3. Permulaan kuat kuasa pindaan kepada Akta Cukai Pendapatan 1967
+
+(1) Kecuali bagi seksyen 10, Bab ini hendaklah berkuat kuasa bagi tahun taksiran 1982 dan tahun taksiran yang berikut.
+
+(2) Seksyen 10 hendaklah disifatkan telah mula berkuat kuasa pada 1 Januari 1982.
+
+### 4. Pindaan seksyen 6B
+
+Seksyen 6B Akta Cukai Pendapatan 1967, yang disebut “Akta ibu” dalam Bab ini, dipinda dengan memotong perkataan “calculated on term loan basis” yang terdapat dalam subseksyen (1).
+
+### 5. Pindaan seksyen 54
+
+Seksyen 54 Akta ibu dipinda dengan memasukkan sebaik selepas perkataan “Subject to section 54A” yang terdapat dalam perenggan (2)(a) perkataan “or section 54B”.
+
+### 6. Pindaan seksyen 54A
+
+Seksyen 54A Akta ibu dipinda—
+
+(a) dengan menggantikan perkataan “for a period of twelve years of assessment” yang terdapat dalam perenggan (1)(a)) dengan perkataan “for twelve years of assessment (hereinafter referred to as the exemption period) commencing from the year of assessment 1982 or in the case of a company whose first basis period ends after 31 December 1981”;
+
+(b) dengan menggantikan perkataan “ten” yang terdapat dalam perenggan (2)(a) dengan perkataan “fifteen”;
+
+(c) dengan menggantikan perenggan (2)(c) dan (d) dengan perenggan baharu (c) dan (d) yang berikut:
+
+“(c) during every four consecutive basis periods for the exempt years of assessment (hereinafter referred to as the relevant period) the company shall undertake a programme to increase the tonnage of its fleet of ships or vessels and shall for this purpose incur capital expenditure on the acquisition of ships or vessels which shall not be less than seventy-five per cent of such fleet acquisition reserve as at the end of the relevant period: Provided that if at the end of the twelve year period where a person has incurred capital expenditure on the acquisition of ships or vessels of not less than seventy-five per cent of the total fleet acquisition reserve, he shall be entitled to the full exemption specified in paragraph (1)(a); and
+
+(d) where at any time during a relevant period any of the conditions have not been complied with or where the Director General is of the opinion that any expenditure deemed to have been incurred has not in fact been incurred, this section shall be deemed never to have had effect for that relevant period.”; dan
+
+(d) dengan menambahkan sebaik selepas subseksyen (2), subseksyen baharu (3) yang berikut:
+
+“(3) For the purposes of this section, capital expenditure is deemed to have been incurred—
+
+(i) when expenditure is made;
+
+(ii) on the signing of a contract for the purchase of a ship or vessel; or
+
+(iii) when a similar commitment is undertaken and it is proved to the satisfaction of the Director General that such commitment is for the actual purchase of a ship or vessel.”.
+
+### 7. Seksyen baharu 54B
+
+Akta ibu dipinda dengan memasukkan sebaik selepas seksyen 54A seksyen yang berikut:
+
+“Abatement of chargeable income of resident companies carrying on sea transport undertakings 54B. (1) (a) Subject to the conditions referred to in subsection (2), a company shall have its chargeable income in respect of a business of transporting passengers or cargo by sea to which paragraph 54(2)(a) applies (hereinafter referred to as that business) abated by fifty per cent for twelve years of assessment (hereinafter referred to as that period) commencing from the year of assessment immediately following the expiration of its exemption period under section 54A; and
+
+(b) as soon as any amount of the chargeable income of that business has been abated, it shall be credited to an account (that account being referred to as the exempt account) and paragraph 5 (except subparagraph (1) thereof) and paragraph 6 of Schedule 7A shall apply as if any reference in those paragraphs to any income exempted or which has become exempt under paragraph 3 were a reference to income credited to the exempt account.
+
+(2) (a) The total dividend (including any dividend paid out of the exempt account) paid, credited or distributed in a basis period shall not exceed fifteen per cent of the paid up capital as at the first day of such basis period;
+
+(b) any excess of the audited net profit for the basis period over such dividend less any tax payable for that year of assessment shall be credited to a fleet acquisition reserve which shall not be reduced other than for the purposes of paragraph (c);
+
+(c) during that period the company shall undertake a programme to increase the tonnage of its fleet of ships or vessels and shall for this purpose incur capital expenditure on the acquisition of ships or vessels which at the end of every four consecutive basis periods (hereinafter referred to as the relevant period) shall not be less than seventy-five per cent of such fleet acquisition reserve; and
+
+(d) where at any time during a basis period any of the conditions have not been complied with or where the Director General is of the opinion that any expenditure deemed to have been incurred has not in fact been incurred, this section shall be deemed never to have had effect for that relevant period.
+
+(3) For the purposes of this section, capital expenditure is deemed to have been incurred—
+
+(i) when expenditure is made;
+
+(ii) on the signing of a contract for the purchase of a ship or vessel; or
+
+(iii) when a similar commitment is undertaken and it is proved to the satisfaction of the Director General that such commitment is for the actual purchase of a ship or vessel.”. Pindaan seksyen 60 8. Seksyen 60 Akta ibu dipinda—
+
+(a) dengan menggantikan subseksyen (2) dengan subseksyen baharu (2) yang berikut:
+
+“(2) For the purposes of this section—
+
+(a) subject to paragraph (b), where an insurer carries on life business in conjunction with general business, the life business and the general business shall be treated as separate insurance businesses;
+
+(b) (i) where an insurer carries on inward re-insurance business, the inward re-insurance business and the general business (excluding the inward re-insurance business and offshore insurance business) shall be treated as separate general businesses;
+
+(ii) where an insurer carries on off-shore insurance business, the offshore insurance business and the general business (excluding the off-shore insurance business and inward re-insurance business) shall be treated as separate general businesses.”;
+
+(b) dengan memasukkan sebaik selepas subseksyen (5A), subseksyen baharu (5B) yang berikut:
+
+“(5B) The adjusted income for the basis period for a year of assessment from the off-shore insurance business of an insurer resident for that basis year for that year of assessment shall consist of an amount arrived at by applying subsection (5) as if references therein to “general business” and “general policies” were references to “offshore insurance business” and “offshore insurance policies” respectively.”;
+
+(c) dengan memasukkan sebaik selepas subseksyen (6A) subseksyen baharu (6B) yang berikut:
+
+“(6B) The adjusted income for the basis period for a year of assessment from the off-shore insurance business of an insurer not resident for the basis year for that year of assessment shall, where that business is wholly or partly carried on in Malaysia, consist of an amount arrived at by applying subsection (6) as if references therein to “general business” and “Malaysian general policies” were references to “off-shore insurance business” and
+
+“off-shore insurance policies” respectively.”;
+
+(d) dengan menggantikan perkataan “or (6A)” yang terdapat dalam proviso kepada subseksyen (7) dengan perkataan “, (6A) or (6B)”;
+
+(e) dengan menggantikan perkataan “and in section 60A” yang terdapat dalam subseksyen (11) dengan perkataan “, section 60A and section 60B”; dan
+
+(f) dengan menggantikan noktah pada penghujung takrif “Malaysian general policy” dan “Malaysian life policy” dalam subseksyen (11) dengan koma bernoktah, dan dengan menambahkan sebaik selepas itu takrif baharu yang berikut:
+
+“ “off-shore insurance” means insurance of a risk under a general policy where the risk is outside Malaysia and the policy of insurance is issued by an insurer resident in Malaysia or by a branch in Malaysia of an insurer not resident in Malaysia, and where any risk is in transit in Malaysia it shall be deemed to be outside Malaysia;
+
+“off-shore insurance policies” means policies issued in respect of off-shore insurance.”. Seksyen baharu 60B dan menombor semula seksyen 60B sebagai seksyen 60C 9. Akta ibu dipinda—
+
+(a) dengan memasukkan sebaik selepas seksyen 60A, seksyen yang berikut:
+
+“Off-shore insurance: chargeable income, reduced rate and exempt dividend 60B. (1) (a) Where an insurer carries on off-shore insurance business in conjunction with other insurance businesses, the part of the chargeable income for a year of assessment which is attributable to that off-shore insurance business shall consist of an amount which bears the same proportion to the chargeable income for that year of assessment of the insurer as the part of the aggregate income which relates to the off-shore insurance business bears to the whole of the aggregate income for that year of assessment from all sources of the insurer; and
+
+(b) the amount arrived at under paragraph (a) shall be treated as the chargeable income for a year of assessment of an insurer from off-shore insurance business for the purposes of paragraph 3 of Part I of Schedule 1.
+
+(2) As soon as any amount of chargeable income from the off-shore insurance business of an insurer (being a company) resident for the basis year for a year of assessment has been subject to income tax at the rate of five per cent—
+
+(a) the net amount of that income (after deduction of such tax) shall be credited to an account (that account and company being referred to as the exempt account and the relevant company respectively); and
+
+(b) paragraph 5 (except subparagraph (1) thereof) and paragraph 6 of Schedule 7A shall apply as if any reference in those paragraphs to any income exempted or which has become exempt under paragraph 3 were a reference to income credited to the exempt account.”; dan
+
+(b) dengan menomborkan semula seksyen 60B yang sedia ada sebagai seksyen 60C.
+
+### 10. Pindaan seksyen 103
+
+Seksyen 103 Akta ibu dipinda dengan menggantikan subseksyen (5A) dengan subseksyen baharu (5A) yang berikut:
+
+“(5A) Where the tax due and payable has been increased under subsection (4) or (5) any balance remaining unpaid upon expiration of sixty days from the date of such increase shall without any further notice being served be further increased by a sum equal to five per cent of the balance unpaid, and that sum shall be recoverable as if it were tax due and payable under this Act.”.
+
+### 11. Pindaan Jadual 1
+
+Bahagian 1 Jadual 1 kepada Akta ibu dipinda dengan memasukkan sebaik selepas perkataan “inward re-insurance business” yang terdapat dalam perenggan 3 perkataan “or off-shore insurance business”.
+
+### 12. Pindaan Jadual 6
+
+Perenggan 33 Bahagian 1 Jadual 6 kepada Akta ibu dipinda—
+
+(a) dengan memotong perkataan “carrying on the business of banking” yang terdapat selepas perkataan “for a year of assessment”;
+
+(b) dengan memasukkan sebaik selepas perkataan “credited by any person” perkataan “(whether the same person or not)”; dan
+
+(c) dengan menggantikan noktah yang terdapat di akhir perenggan itu dengan noktah bertindih dan memasukkan sebaik selepas di bawah perenggan itu proviso baharu yang berikut:
+
+“Provided that the exemption under this paragraph shall not apply to interest paid or credited on funds required for the purposes of maintaining net working funds as prescribed by the Central Bank of Malaysia in pursuance of section 14 of the *Banking Act 1973
+
+[Act 102]. ”
+
+## BAB III — PINDAAN KEPADA AKTA CUKAI KEUNTUNGAN HARTA TANAH 1976
+
+### 13. Permulaan kuat kuasa Akta Cukai Keuntungan Harta Tanah 1976
+
+(1) Kecuali bagi perenggan 14(i) Bab ini hendaklah disifatkan telah mula berkuat kuasa pada 23 Oktober 1981.
+
+(2) Perenggan 14(i) hendaklah disifatkan telah mula berkuat kuasa pada 7 November 1975.
+
+### 14. Pindaan Jadual 2
+
+Jadual 2 Akta Cukai Keuntungan Harta Tanah 1976 [Akta 169] yang disebut “Akta ibu” dalam Bab ini, dipinda— * CATATAN—Akta ini telah dimansuhkan oleh Akta Bank dan Institusi-Institusi Kewangan 1989 [Akta 372]—lihat subseksyen 128(1) Akta 372 dan kemudiannya dimansuhkan oleh Akta Perkhidmatan Kewangan 2013 [Akta 758]—lihat seksyen 271 Akta 758.
+
+(a) dengan memotong perkataan “(termasuk perolehan secara paksa di bawah mana-mana undang-undang)” yang terdapat dalam perenggan 2;
+
+(b) dengan memasukkan perkataan “pemindahmilikan aset di antara suami isteri atau” sebaik sebelum perkataan “pemindahmilikan aset” yang terdapat dalam subperenggan 3(b);
+
+(c) dengan menggantikan noktah yang terdapat pada penghujung subperenggan 3(e) dengan perkataan “; atau”;
+
+(d) dengan memasukkan sebaik selepas subperenggan 3(e), subperenggan yang berikut:
+
+“(f) pelupusan aset akibat daripada pengambilan secara paksa di bawah mana-mana undang-undang.”;
+
+(e) dengan menggantikan noktah yang terdapat pada penghujung subperenggan 9(d) dengan perkataan “; atau”;
+
+(f) dengan memasukkan sebaik selepas subperenggan 9(d), subperenggan baharu (e) yang berikut:
+
+“(e) jika seksyen 25(2) terpakai.”;
+
+(g) dengan menggantikan subperenggan subperenggan baharu (1) yang berikut: 17(1) dengan “(1) Tertakluk kepada perenggan ini, jika dengan kelulusan terlebih dahulu daripada Ketua Pengarah—
+
+(a) sesuatu aset dipindahmilik antara syarikatsyarikat dalam kumpulan yang sama untuk menambah kecekapan dalam perjalanan bagi suatu balasan terdiri daripada syer-syer dalam syarikat itu atau sebahagian besarnya daripada syer-syer dalam syarikat itu dan bakinya dengan bayaran wang;
+
+(b) sesuatu aset dipindahmilik bagi apa-apa balasan antara syarikat-syarikat di dalam apaapa skim penubuhan semula, penyusunan semula atau pencantuman; atau
+
+(c) sesuatu aset yang dibahagi oleh likuidator syarikat dan likuidasi syarikat itu dibuat di bawah skim penubuhan semula, penyusunan semula atau pencantuman; dan syarikat penerima pindahmilik bermastautin di Malaysia, pindah milikan itu hendaklah disifatkan sebagai suatu pelupusan atas mana syarikat pemindah milik atau likuidator tidak menerima apa-apa keuntungan dan tidak menanggung apa-apa kerugian: Dengan syarat bahawa tiada kelulusan boleh diberi bagi apa-apa pindahmilik atau pembahagian aset dalam apa-apa skim di bawah subperenggan (1)(b) atau (1)(c) melainkan Ketua Pengarah berpuashati aset itu dipindahmilik kepada sesuatu syarikat yang bermastautin dalam Malaysia untuk melaksanakan apa-apa skim yang berkaitan secara langsung dengan apa-apa pindahmilik atau pembahagian kepunyaan aset dalam Malaysia dengan mematuhi dasar Kerajaan mengenai penyertaan modal dalam perindustrian.”;
+
+(h) dengan menggantikan subperenggan subperenggan yang berikut: 19(5) dengan “(5) Jika sesuatu aset yang telah dipindahmilik di bawah perenggan 3(b) telah kemudiannya dilupuskan oleh suami/isteri atau syarikat itu, pelupus itu hendaklah disifatkan sebagai telah memperolehi aset itu dengan harga perolehan bersamaan dengan harga perolehan yang dibayar oleh pemindah milik termasuk perbelanjaan yang dibenar yang dilakukan oleh pemindahmilik atau, jika aset itu diperolehi oleh pemindah milik sebelum 1hb Januari 1970, nilai pasaran aset itu pada 1 Januari 1970 termasuk perbelanjaan yang benar yang dilakukan oleh pemindahmilik mulai dari 1hb Januari 1970 ditolak jumlah wang dari jenis yang disebut dalam perenggan 4(1)(a), (b) atau (c) yang diterima oleh atau dilucut hak, mengikut mana yang berkenaan, kepada pemindah milik mulai dari 1hb Januari 1970;”; dan
+
+(i) dengan menggantikan perkataan “bayaran pendahuluan sebagaimana ditetapkan dalam perjanjian)” dalam subperenggan 24(3) perkataan “bayaran pendahuluan) sebagaimana ditetapkan dalam perjanjian”.
+
+### 15. Pindaan Jadual 5
+
+Bahagian I Jadual 5 kepada Akta ibu dipinda—
+
+(a) dengan memotong perkataan “atau kemudian daripadanya” yang terdapat selepas perkataan “pemerolehan aset yang boleh dikenakan cukai ”; dan
+
+(b) dengan memasukkan pada penghujung Bahagian itu dengan yang berikut:
+
+“Pelupusan dalam tahun ketujuh selepas tarikh pemerolehan aset yang boleh dikenakan cukai atau kemudian daripadanya … ... Tiada”.
